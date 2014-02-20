@@ -1,0 +1,5 @@
+name: Up Up Down Down
+
+permalink: /show/:title
+
+baseurl: "http://www.upup.fm/"

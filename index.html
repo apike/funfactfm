@@ -1,0 +1,15 @@
+---
+layout: default
+fulltitle: Up Up Down Down, the only podcast about video games
+isHome: true
+---
+
+<p>A weekly podcast about what's wrong and what's right in the world of video games. Featuring <a href="http://www.allenpike.com/">Allen Pike</a>, <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a>, and a series of interesting guests.</p>
+
+<div id="episodes">
+{% for post in site.posts %}
+  <hr>
+	<h1><a href='.'>{{ post.title }}</a></h1>
+  {{ post.content }}
+{% endfor %}
+</div>

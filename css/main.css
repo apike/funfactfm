@@ -1,0 +1,85 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#site {
+	width: 500px;
+	font-family: "ff-meta-web-pro", Verdana;
+	margin: 0px auto;
+	font-size: 20px;
+	line-height: 1.5em;
+	padding: 50px 0px;
+}
+
+#logo {
+	width: 225px;
+	height: 225px;
+}
+
+ul#nav {
+	float:right;
+	width: 225px;
+	text-align: right;
+	list-style: none;
+	font-size: 28px;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+
+#nav img {
+	width: 56px;
+	height: 56px;
+}
+
+#nav li span {
+	/* I'm too old for this shit. */
+	position: relative;
+	bottom: 16px;
+	right: 10px;
+}
+
+#nav a:link {
+	color: black;
+}
+
+#nav a:visited {
+	color: #111;
+}
+
+#nav a:hover {
+	color: #ad00a3;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a:link {
+	color: #ad00a3;
+}
+
+a:visited {
+	color: #ad00a3;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#footer {
+	text-align: center;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #888;
+	margin: 2em 0;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 28px;
+}
