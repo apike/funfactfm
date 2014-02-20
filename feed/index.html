@@ -1,0 +1,83 @@
+---
+layout: nil
+---
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+<channel>
+ 
+<title>Up Up Down Down</title>
+ 
+<link>http://www.upup.fm/</link>
+ 
+<language>en</language>
+ 
+<copyright>&#xA9; Steamclock Software</copyright>
+ 
+<itunes:subtitle>The show about what's wrong and right in the games industry.</itunes:subtitle>
+ 
+<itunes:author>Allen Pike and Nigel Brooke</itunes:author>
+ 
+<itunes:keywords>video-games,games,gaming,games,upup,up-up-down-down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+ 
+<itunes:summary>The podcast about what's wrong and right in the games industry. App developers Allen Pike and Nigel Brooke host an interesting guest each week. Chaos ensues.</itunes:summary>
+ 
+<description>The podcast about what's wrong and right in the games industry. App developers Allen Pike and Nigel Brooke host an interesting guest each week. Chaos ensues.</description>
+ 
+<itunes:owner>
+ 
+<itunes:name>Up Up Down Down</itunes:name>
+ 
+<itunes:email>hello@upup.fm</itunes:email>
+ 
+</itunes:owner>
+ 
+<itunes:image href="http://www.upup.fm/images/itunes.jpg" />
+ 
+<itunes:category text="Games &amp; Hobbies">
+	<itunes:category text="Video Games" />
+</itunes:category>
+ 
+<itunes:category text="Technology">
+	<itunes:category text="Tech News" />
+</itunes:category>
+
+<itunes:category text="Comedy" />
+  
+<itunes:new-feed-url>http://www.upup.fm/feed/</itunes:new-feed-url>
+ 
+ {% for post in site.posts limit:10 %}
+ 
+ <item>
+ 
+ <title>{{ post.title }}</title>
+ 
+ <itunes:author>Allen Pike and Nigel Brooke</itunes:author>
+ 
+ <itunes:subtitle>Up Up Down Down: {{ post.title }}</itunes:subtitle>
+ 
+ <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+ 
+ <itunes:image href="http://www.upup.fm/images/itunes.jpg" />
+
+ <link>http://www.upup.fm{{ post.url }}</link>
+ 
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
+ 
+ <guid>http://www.upup.fm{{ post.url }}</guid>
+ 
+ <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+ 
+ <itunes:duration>{{ post.duration }}</itunes:duration>
+ 
+ <itunes:keywords>video-games,games,gaming,games,upup,up-up-down-down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+ 
+ </item>
+ 
+ {% endfor %}
+ 
+</channel>
+ 
+</rss>

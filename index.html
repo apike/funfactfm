@@ -7,9 +7,12 @@ isHome: true
 <p>The podcast about what's wrong and right in the games industry. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
 
 <div id="episodes">
-{% for post in site.posts %}
+{% for page in site.posts %}
   <hr>
-	<h1><a href='.'>{{ post.title }}</a></h1>
-  {{ post.content }}
+	<h1><a href='{{ page.url }}'>{{ page.title }}</a></h1>
+  {{ page.content }}
+
+	<p><a href="{{ page.link }}">Play ({{ page.duration }})</a>  &bull; {{ page.date | date: "%b %d, %Y" }} </p>
+
 {% endfor %}
 </div>
