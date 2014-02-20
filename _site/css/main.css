@@ -1,6 +1,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
+	background-color: #000;
 }
 
 #site {
@@ -10,11 +11,13 @@ html, body {
 	font-size: 20px;
 	line-height: 1.5em;
 	padding: 50px 0px;
+	color: #EEE;
 }
 
 #logo {
 	width: 225px;
 	height: 225px;
+	border: 1px solid #BBB;
 }
 
 ul#nav {
@@ -41,16 +44,11 @@ ul#nav {
 }
 
 #nav a:link {
-	color: black;
+	color: #EEE;
 }
 
 #nav a:visited {
-	color: #111;
-}
-
-#nav a:hover {
-	color: #ad00a3;
-	text-decoration: none;
+	color: #EEE;
 }
 
 a:link, a:visited {
@@ -58,11 +56,11 @@ a:link, a:visited {
 }
 
 a:link {
-	color: #ad00a3;
+	color: #d7fe75;
 }
 
 a:visited {
-	color: #ad00a3;
+	color: #d7fe75;
 }
 
 a:hover {
@@ -75,9 +73,18 @@ a:hover {
 
 hr {
 	border: 0;
-	border-top: 1px solid #888;
+	border-top: 1px solid #999;
 	margin: 2em 0;
 }
+
+h1 a:link, #nav a:hover, #footer a:link {
+	color: #ed52e4;
+}
+
+h1 a:visited, #footer a:visited {
+	color: #ed52e4;
+}
+
 
 h1 {
 	font-weight: normal;
