@@ -12,6 +12,8 @@ layout: nil
  
 <link>http://www.upup.fm/</link>
  
+<itunes:explicit>no</itunes:explicit>
+
 <language>en</language>
  
 <copyright>&#xA9; Steamclock Software</copyright>
@@ -20,7 +22,7 @@ layout: nil
  
 <itunes:author>Allen Pike and Nigel Brooke</itunes:author>
  
-<itunes:keywords>video-games,games,gaming,games,upup,up-up-down-down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+<itunes:keywords>video-games,games,gaming,games,upup,up,down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
  
 <itunes:summary>The podcast about what's wrong and right in the games industry. App developers Allen Pike and Nigel Brooke host an interesting guest each week. Chaos ensues.</itunes:summary>
  
@@ -58,7 +60,9 @@ layout: nil
  
  <itunes:subtitle>Up Up Down Down: {{ post.title }}</itunes:subtitle>
  
- <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+ <itunes:summary>{{ post.summary }}</itunes:summary>
+
+<description><![CDATA[{{ post.content}}]]></description>
  
  <itunes:image href="http://www.upup.fm/images/itunes.jpg" />
 
@@ -71,8 +75,10 @@ layout: nil
  <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
  
  <itunes:duration>{{ post.duration }}</itunes:duration>
+
+ <itunes:explicit>no</itunes:explicit>
  
- <itunes:keywords>video-games,games,gaming,games,upup,up-up-down-down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+ <itunes:keywords>video-games,games,gaming,games,upup,up,down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
  
  </item>
  
