@@ -8,6 +8,7 @@ duration: 1:09:37
 length: 43679540
 link: http://traffic.libsyn.com/upupshow/upup2.mp3
 summary: "Parveen Kaler joins us to discuss sequels, plastic guitars, and the unfair advantage of being Batman."
+explicit: "no"
 
 ---
 

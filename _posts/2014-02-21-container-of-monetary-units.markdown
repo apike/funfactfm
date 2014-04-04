@@ -8,6 +8,7 @@ duration: 1:11:44
 length: 47486328
 link: http://traffic.libsyn.com/upupshow/upupep1.mp3
 summary: "Matt Kump joins us to discuss In App Purchase, what horrible things it's done to the games we love, and what we can learn from Party Poker."
+explicit: "no"
 
 ---
 
