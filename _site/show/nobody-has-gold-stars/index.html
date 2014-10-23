@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-          <title>10. Nobody Has Gold Stars - Up Up Down Down</title>
+          <title>10. Nobody Has Gold Stars - Up Up Down Down Podcast</title>
         
 
         <link rel="stylesheet" href="/css/main.css">
@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,42 +96,37 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <hr>
 
-<h1><a href='.'>10. Nobody Has Gold Stars</a></h1>
+<h2><a href='.'>10. Nobody Has Gold Stars</a></h2>
 <div class="post">
-<p><a href='http://www.twitter.com/_gtz_'>Grace &#8220;GTZ&#8221;</a> of Fat, Ugly, or Slutty joins us to discuss jerks on Xbox Live, getting people to play nice together, and hellbanning.</p>
+<p><a href="http://www.twitter.com/_gtz_">Grace “GTZ”</a> of Fat, Ugly, or Slutty joins us to discuss jerks on Xbox Live, getting people to play nice together, and hellbanning.</p>
 
 <ul>
-<li><a href='http://fatuglyorslutty.com/'>Fat, Ugly, or Slutty</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/League_of_Legends'>League of Legends</a> and the fine art of <a href='http://leagueoflegends.wikia.com/wiki/Jungling'>Jungling</a></li>
-
-<li><a href='http://gbitk.tumblr.com/post/61477751672/pax-prime-2013-panel-designing-shaping-and'>Grace&#8217;s panels at PAX 2013 and earlier</a> about positively shaping player behaviour</li>
-
-<li><a href='http://www.gamesindustry.biz/articles/2013-05-15-talking-shop-riot-games-lead-designer-of-social-systems'>Riot Games&#8217; experiments with Restricted Chat Mode</a> and <a href='http://www.gamasutra.com/blogs/JimCummings/20130331/189629/GDC_Riot_Experimentally_Investigates_Online_Toxicity.php'>toxic behaviour</a></li>
-
-<li><a href='http://hypercritical.co/2012/11/27/strange-game'>The lessons Journey teaches us</a></li>
-
-<li>Guild Wars 2 staff <a href='http://www.reddit.com/r/Guildwars2/comments/yxx3m/suspensions_for_offensive_names_and_inappropriate/'>respond to Redditors as to why their account was banned</a></li>
-
-<li><a href='http://castro.fm'>Castro</a>, the nicest podcast app</li>
-
-<li><a href='http://majornelson.com/2013/06/11/xbox-one-smart-match/'>Smart Match</a>, Xbox Live&#8217;s version of <a href='http://blog.codinghorror.com/suspension-ban-or-hellban/'>hellbanning</a></li>
-
-<li><a href='http://www.reddit.com/r/gaming/comments/1nzo1y/gta_5_online_everyone_is_trevor'>Everybody is a Trevor</a> in GTA V Online</li>
-
-<li><a href='http://www.multiplayerpiano.com/'>Multiplayer piano</a></li>
+  <li><a href="http://fatuglyorslutty.com/">Fat, Ugly, or Slutty</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/League_of_Legends">League of Legends</a> and the fine art of <a href="http://leagueoflegends.wikia.com/wiki/Jungling">Jungling</a></li>
+  <li><a href="http://gbitk.tumblr.com/post/61477751672/pax-prime-2013-panel-designing-shaping-and">Grace’s panels at PAX 2013 and earlier</a> about positively shaping player behaviour</li>
+  <li><a href="http://www.gamesindustry.biz/articles/2013-05-15-talking-shop-riot-games-lead-designer-of-social-systems">Riot Games’ experiments with Restricted Chat Mode</a> and <a href="http://www.gamasutra.com/blogs/JimCummings/20130331/189629/GDC_Riot_Experimentally_Investigates_Online_Toxicity.php">toxic behaviour</a></li>
+  <li><a href="http://hypercritical.co/2012/11/27/strange-game">The lessons Journey teaches us</a></li>
+  <li>Guild Wars 2 staff <a href="http://www.reddit.com/r/Guildwars2/comments/yxx3m/suspensions_for_offensive_names_and_inappropriate/">respond to Redditors as to why their account was banned</a></li>
+  <li><a href="http://castro.fm">Castro</a>, the nicest podcast app</li>
+  <li><a href="http://majornelson.com/2013/06/11/xbox-one-smart-match/">Smart Match</a>, Xbox Live’s version of <a href="http://blog.codinghorror.com/suspension-ban-or-hellban/">hellbanning</a></li>
+  <li><a href="http://www.reddit.com/r/gaming/comments/1nzo1y/gta_5_online_everyone_is_trevor">Everybody is a Trevor</a> in GTA V Online</li>
+  <li><a href="http://www.multiplayerpiano.com/">Multiplayer piano</a></li>
 </ul>
 
-<p><a href="http://traffic.libsyn.com/upupshow/upup10.mp3">Play (1:08:57)</a>  &bull; Apr 25, 2014 </p>
+
+<audio controls="controls">  
+   <source src="http://traffic.libsyn.com/upupshow/upup10.mp3" />  
+</audio> 
+<p><a href="http://traffic.libsyn.com/upupshow/upup10.mp3">Download (1:08:57)</a>  &bull; Apr 25, 2014 </p>
 
 </div>
 
@@ -135,6 +142,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

@@ -4,7 +4,8 @@ author: allen
 date: 2014-03-28 09:00:00
 slug: "filled-up-with-cabbage"
 title: "6. My Whole Colony Filled Up With Cabbage"
-duration: 1:14:45
+topic: "Simulations with David Baumgart"
+duration: "1:14:45"
 length: 44858169
 link: http://traffic.libsyn.com/upupshow/upup6.mp3
 summary: "Gaslamp Games’ David Baumgart joins us to discuss Clockwork Empires, simulations, and pickled fungi."

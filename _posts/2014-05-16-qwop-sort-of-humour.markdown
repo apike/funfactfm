@@ -4,7 +4,8 @@ author: allen
 date: 2014-05-16 10:00:00
 slug: "qwop-sort-of-humour"
 title: "13. A QWOP Sort of Humour"
-duration: 1:05:32
+topic: "Humour in Games with Curtis Lassam"
+duration: "1:05:32"
 length: 39328046
 link: http://traffic.libsyn.com/upupshow/upup13a.mp3
 summary: "Developer and humourist Curtis Lassam joins us to discuss humour in games. We discuss comically hard games, sandboxes as a vehicle for comedy, what makes it hard to write a funny game, and a goat."

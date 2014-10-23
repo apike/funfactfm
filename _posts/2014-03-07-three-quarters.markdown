@@ -4,7 +4,8 @@ author: allen
 date: 2014-03-07 09:00:00
 slug: "three-quarters"
 title: "3. Three Quarters of Half-Life One"
-duration: 1:10:52
+topic: "Game Length with Patrick Gibson"
+duration: "1:10:52"
 length: 43223929
 link: http://traffic.libsyn.com/upupshow/upup3.mp3
 summary: "Patrick Gibson joins us to discuss games that are too long, side quests, tearing up, and flapping."

@@ -4,7 +4,8 @@ author: allen
 date: 2014-04-04 09:00:00
 slug: "criticizing-water"
 title: "7. Criticizing Water For Being Wet"
-duration: 1:28:45
+topic: "Game Reviews with Scott Stevenson"
+duration: "1:28:45"
 length: 53250528
 link: http://traffic.libsyn.com/upupshow/upup7.mp3
 summary: "Scott Stevenson joins us to discuss game reviews, game-breaking bugs, and what's wrong with Lara Croft getting impaled."

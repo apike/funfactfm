@@ -1,0 +1,25 @@
+---
+layout: post
+author: allen
+date: 2014-09-05 14:00:00
+slug: "unreal"
+title: "25. So Unreal is Just Amazing"
+topic: "Game Engines with Jeff Lamarche"
+duration: "1:32:21"
+length: 55418952
+link: http://traffic.libsyn.com/upupshow/upup25.mp3
+summary: "Martiancraft's Jeff LaMarche joins us to discuss 3D game engines. We discuss the core features of a game engine, what Unity brings to the table, and why it has become so popular for indie games like Martiancraft's Republic Sniper. Then we dig in to Unreal, Jeff's team's switch to it from Unity, and what makes it so wonderfully fantastic."
+explicit: "no"
+
+---
+
+Martiancraft's [Jeff LaMarche](http://www.twitter.com/jeff_lamarche) joins us to discuss 3D game engines. We discuss the core features of a game engine, what Unity brings to the table, and why it has become so popular for indie games like Martiancraft's [Republic Sniper](http://martiancraft.com/republicsniper.html). Then we dig in to Unreal, Jeff's team's switch to it from Unity, and what makes it so wonderfully fantastic.
+
+- Jeff's blog post [An Unreal Decision](http://martiancraft.com/blog/2014/08/an-unreal-decision/) on switching away from Unity
+- [Unity Licensing](http://unity3d.com/unity/licenses)
+- [Republic Sniper](http://martiancraft.com/republicsniper.html)
+- [List of Unreal Engine games](http://en.wikipedia.org/wiki/List_of_Unreal_Engine_games)
+- [Blueprints in Unreal Engine](http://martiancraft.com/blog/2014/07/blueprints-unreal-engine/)
+- [BRDF library](http://www.merl.com/brdf/)
+- [Metro Redux](http://www.polygon.com/game/metro-redux/36804)
+

@@ -4,7 +4,8 @@ author: allen
 date: 2014-04-25 10:00:00
 slug: "nobody-has-gold-stars"
 title: "10. Nobody Has Gold Stars"
-duration: 1:08:57
+topic: "Online Jerks with GTZ Grace"
+duration: "1:08:57"
 length: 41374479
 link: http://traffic.libsyn.com/upupshow/upup10.mp3
 summary: "Grace 'GTZ' of Fat, Ugly, or Slutty joins us to discuss jerks on Xbox Live, getting people to play nice together, and hellbanning."

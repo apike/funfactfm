@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-          <title>9. Getting Bored of Clicking On Cows - Up Up Down Down</title>
+          <title>9. Getting Bored of Clicking On Cows - Up Up Down Down Podcast</title>
         
 
         <link rel="stylesheet" href="/css/main.css">
@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,58 +96,46 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <hr>
 
-<h1><a href='.'>9. Getting Bored of Clicking On Cows</a></h1>
+<h2><a href='.'>9. Getting Bored of Clicking On Cows</a></h2>
 <div class="post">
-<p><a href='http://www.twitter.com/angelinamagnum'>Angelina Fabbro</a> of Mozilla joins us to discuss games on the web, why the hell people are still using C++, and business models for web-based games. After that, we jump in to games we&#8217;re playing on the iPad, what&#8217;s wrong with MMOs, and how Pokémon will never die.</p>
+<p><a href="http://www.twitter.com/angelinamagnum">Angelina Fabbro</a> of Mozilla joins us to discuss games on the web,  why the hell people are still using C++, and business models for web-based games. After that, we jump in to games we’re playing on the iPad, what’s wrong with MMOs, and how Pokémon will never die.</p>
 
 <ul>
-<li><a href='https://blog.mozilla.org/blog/2014/03/18/gdc-2014-mozilla-and-partners-prove-the-web-is-the-platform-for-gaming/'>Mozilla&#8217;s GDC 2014 announcements</a></li>
-
-<li>Unreal 4&#8217;s <a href='http://www.polygon.com/2014/3/19/5526094/unreal-engine-4-subscription-epic-games'>pricing drop to $19 per month</a></li>
-
-<li><a href='https://unity3d.com/'>The Unity 3d Engine</a></li>
-
-<li><a href='http://www.mozilla.org/en-US/about/manifesto/'>The Mozilla Manifesto</a></li>
-
-<li><a href='http://asmjs.org/'>asm.js</a>, the low-level subset of JavaScript</li>
-
-<li><a href='http://mbebenita.github.io/LLJS/'>LLJS</a></li>
-
-<li><a href='http://orteil.dashnet.org/cookieclicker/'>Cookie Clicker</a></li>
-
-<li><a href='http://www.playverse.com/Anonplayer/0-a2aadd1b76e14d0e848ea1de18dca4e8'>Monster Madness</a> in WebGL</li>
-
-<li><a href='http://demoseen.com/webglenabler/'>WebGL on iOS devices</a></li>
-
-<li><a href='http://www.gamasutra.com/view/news/213647/Epics_Tim_Sweeney_lays_out_the_case_for_Unreal_Engine_4.php'>The death of UnrealScript</a> in favour of&#8230; C++.</li>
-
-<li><a href='http://www.ftlgame.com/'>FTL for iPad</a></li>
-
-<li><a href='http://www.camouflaj.com/'>Republique</a></li>
-
-<li><a href='http://www.freelives.net/broforce-game'>BROFORCE</a></li>
-
-<li><a href='http://www.ironcladtactics.com/'>Ironclad Tactics</a></li>
-
-<li><a href='http://us.battle.net/hearthstone/en/'>Hearthstone</a>, which is clearly better than Magic</li>
-
-<li><a href='http://www.imdb.com/title/tt0803096/'>Warcraft: the Movie</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Super_Mario_3D_World'>New Super Mario Bros. Wii U 3D World Bros. U</a></li>
-
-<li><a href='http://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pok%C3%A9mon)'>Garbador</a>, the garbage-type Pokemon</li>
+  <li><a href="https://blog.mozilla.org/blog/2014/03/18/gdc-2014-mozilla-and-partners-prove-the-web-is-the-platform-for-gaming/">Mozilla’s GDC 2014 announcements</a></li>
+  <li>Unreal 4’s <a href="http://www.polygon.com/2014/3/19/5526094/unreal-engine-4-subscription-epic-games">pricing drop to $19 per month</a></li>
+  <li><a href="https://unity3d.com/">The Unity 3d Engine</a></li>
+  <li><a href="http://www.mozilla.org/en-US/about/manifesto/">The Mozilla Manifesto</a></li>
+  <li><a href="http://asmjs.org/">asm.js</a>, the low-level subset of JavaScript</li>
+  <li><a href="http://mbebenita.github.io/LLJS/">LLJS</a></li>
+  <li><a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a></li>
+  <li><a href="http://www.playverse.com/Anonplayer/0-a2aadd1b76e14d0e848ea1de18dca4e8">Monster Madness</a> in WebGL</li>
+  <li><a href="http://demoseen.com/webglenabler/">WebGL on iOS devices</a></li>
+  <li><a href="http://www.gamasutra.com/view/news/213647/Epics_Tim_Sweeney_lays_out_the_case_for_Unreal_Engine_4.php">The death of UnrealScript</a> in favour of… C++.</li>
+  <li><a href="http://www.ftlgame.com/">FTL for iPad</a></li>
+  <li><a href="http://www.camouflaj.com/">Republique</a></li>
+  <li><a href="http://www.freelives.net/broforce-game">BROFORCE</a></li>
+  <li><a href="http://www.ironcladtactics.com/">Ironclad Tactics</a></li>
+  <li><a href="http://us.battle.net/hearthstone/en/">Hearthstone</a>, which is clearly better than Magic</li>
+  <li><a href="http://www.imdb.com/title/tt0803096/">Warcraft: the Movie</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Super_Mario_3D_World">New Super Mario Bros. Wii U 3D World Bros. U</a></li>
+  <li><a href="http://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pok%C3%A9mon)">Garbador</a>, the garbage-type Pokemon</li>
 </ul>
 
-<p><a href="http://traffic.libsyn.com/upupshow/upup9.mp3">Play (1:27:51)</a>  &bull; Apr 18, 2014 </p>
+
+
+<audio controls="controls">  
+   <source src="http://traffic.libsyn.com/upupshow/upup9.mp3" />  
+</audio> 
+<p><a href="http://traffic.libsyn.com/upupshow/upup9.mp3">Download (1:27:51)</a>  &bull; Apr 18, 2014 </p>
 
 </div>
 
@@ -151,6 +151,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

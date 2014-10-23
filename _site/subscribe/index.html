@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,29 +96,27 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <hr />
-<h2 id='subscribe'>Subscribe</h2>
+
+<h2 id="subscribe">Subscribe</h2>
 
 <p>You can subscribe to the podcast in various ways:</p>
 
 <ul>
-<li><a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a>, which is also the place to leave reviews</li>
-
-<li><a href='castro://subscribe/www.upup.fm/feed/'>Open in Castro</a> on an iPhone with <a href='http://castro.fm/'>Castro</a> installed</li>
-
-<li><a href='http://www.upup.fm/feed/'>RSS</a> for the purists</li>
-
-<li><a href='http://www.stitcher.com/podcast/up-up-down-down'>Stitcher</a></li>
-
-<li>Our Gold membership, where we burn each episode on a gold NES cartridge and mail it to you (subject to availability)</li>
+  <li><a href="https://itunes.apple.com/us/podcast/up-up-down-down/id825505015">iTunes</a>, which is also the place to leave reviews</li>
+  <li><a href="castro://subscribe/www.upup.fm/feed/">Open in Castro</a> on an iPhone with <a href="http://castro.fm/">Castro</a> installed</li>
+  <li><a href="/feed/">RSS</a> for the purists</li>
+  <li><a href="http://www.stitcher.com/podcast/up-up-down-down">Stitcher</a></li>
+  <li>Our Gold membership, where we burn each episode on a gold NES cartridge and mail it to you (subject to availability)</li>
 </ul>
+
 
         <hr> 
 
@@ -119,6 +129,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

@@ -4,7 +4,8 @@ author: allen
 date: 2014-02-28 09:00:00
 slug: "a-perfect-storm"
 title: "2. A Perfect Storm of Crummy Business Decisions"
-duration: 1:09:37
+topic: "Sequels with Parveen Kaler"
+duration: "1:09:37"
 length: 43679540
 link: http://traffic.libsyn.com/upupshow/upup2.mp3
 summary: "Parveen Kaler joins us to discuss sequels, plastic guitars, and the unfair advantage of being Batman."

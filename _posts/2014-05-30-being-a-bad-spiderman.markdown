@@ -4,7 +4,8 @@ author: allen
 date: 2014-05-30 10:00:00
 slug: "being-a-bad-spiderman"
 title: "15. Being a Bad Spider-Man"
-duration: 1:18:50
+topic: "Open Worlds with Scott Stevenson"
+duration: "1:18:50"
 length: 47389695
 link: http://traffic.libsyn.com/upupshow/upup15a.mp3
 summary: "Scott Stevenson of Low Earth Orbit joins us to talk open world games. We discuss side quests, player choice, railroading, and trying to tell a story when the player can ruin everything. As usual, we end with a diversion into games we're excited about, and some peculiar Kickstarters."

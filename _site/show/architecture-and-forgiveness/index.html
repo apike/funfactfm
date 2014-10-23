@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-          <title>8. Architecture and Forgiveness - Up Up Down Down</title>
+          <title>8. Architecture and Forgiveness - Up Up Down Down Podcast</title>
         
 
         <link rel="stylesheet" href="/css/main.css">
@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,50 +96,42 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <hr>
 
-<h1><a href='.'>8. Architecture and Forgiveness</a></h1>
+<h2><a href='.'>8. Architecture and Forgiveness</a></h2>
 <div class="post">
-<p>Monument Valley&#8217;s <a href='http://www.twitter.com/kenwongart'>Ken Wong</a> joins us to discuss games as art, Monument Valley, and the business of crafting meaningful games.</p>
+<p>Monument Valley’s <a href="http://www.twitter.com/kenwongart">Ken Wong</a> joins us to discuss games as art, Monument Valley, and the business of crafting meaningful games.</p>
 
 <ul>
-<li><a href='http://www.monumentvalleygame.com/'>Monument Valley</a></li>
-
-<li><a href='http://www.rogerebert.com/rogers-journal/video-games-can-never-be-art'>Video games can never be art</a> by Roger Ebert</li>
-
-<li><a href='http://en.wikipedia.org/wiki/Journey_(2012_video_game)'>Journey</a></li>
-
-<li><a href='http://www.gonehomegame.com/'>Gone Home</a> and why you should play it instead of <a href='http://dear-esther.com/'>Dear Esther</a></li>
-
-<li><a href='http://www.threesgame.com/'>Threes</a>, the tiny puzzle that grows on you</li>
-
-<li><a href='https://www.youtube.com/watch?v=qjOZtWZ56lc'>Numberwang</a></li>
-
-<li><a href='http://louhuang.com/2048-numberwang/'>2048 Numberwang</a></li>
-
-<li><a href='http://hcsoftware.sourceforge.net/passage/'>Passage</a></li>
-
-<li><a href='http://www.swordandsworcery.com/'>Sword and Sworcery</a></li>
-
-<li>Ken&#8217;s last game, <a href='http://www.hackycat.com/'>HackyCat</a></li>
-
-<li><a href='http://windosill.com/'>Windosill</a></li>
-
-<li><a href='http://asherv.com/threes/threemails/'>The arduous process of making Threes</a></li>
-
-<li><a href='http://www.koryheath.com/zendo/design-history/'>The design of Zendo</a></li>
-
-<li><a href='http://www.antichamber-game.com/'>Antichamber</a></li>
+  <li><a href="http://www.monumentvalleygame.com/">Monument Valley</a></li>
+  <li><a href="http://www.rogerebert.com/rogers-journal/video-games-can-never-be-art">Video games can never be art</a> by Roger Ebert</li>
+  <li><a href="http://en.wikipedia.org/wiki/Journey_(2012_video_game)">Journey</a></li>
+  <li><a href="http://www.gonehomegame.com/">Gone Home</a> and why you should play it instead of <a href="http://dear-esther.com/">Dear Esther</a></li>
+  <li><a href="http://www.threesgame.com/">Threes</a>, the tiny puzzle that grows on you</li>
+  <li><a href="https://www.youtube.com/watch?v=qjOZtWZ56lc">Numberwang</a></li>
+  <li><a href="http://louhuang.com/2048-numberwang/">2048 Numberwang</a></li>
+  <li><a href="http://hcsoftware.sourceforge.net/passage/">Passage</a></li>
+  <li><a href="http://www.swordandsworcery.com/">Sword and Sworcery</a></li>
+  <li>Ken’s last game, <a href="http://www.hackycat.com/">HackyCat</a></li>
+  <li><a href="http://windosill.com/">Windosill</a></li>
+  <li><a href="http://asherv.com/threes/threemails/">The arduous process of making Threes</a></li>
+  <li><a href="http://www.koryheath.com/zendo/design-history/">The design of Zendo</a></li>
+  <li><a href="http://www.antichamber-game.com/">Antichamber</a></li>
 </ul>
 
-<p><a href="http://traffic.libsyn.com/upupshow/upup8.mp3">Play (1:26:52)</a>  &bull; Apr 11, 2014 </p>
+
+
+<audio controls="controls">  
+   <source src="http://traffic.libsyn.com/upupshow/upup8.mp3" />  
+</audio> 
+<p><a href="http://traffic.libsyn.com/upupshow/upup8.mp3">Download (1:26:52)</a>  &bull; Apr 11, 2014 </p>
 
 </div>
 
@@ -143,6 +147,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

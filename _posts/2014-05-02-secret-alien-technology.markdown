@@ -4,7 +4,8 @@ author: allen
 date: 2014-05-02 10:00:00
 slug: "secret-alien-technology"
 title: "11. Secret Alien Technology"
-duration: 1:11:04
+topic: "Portable Games with Myke Hurley"
+duration: "1:11:04"
 length: 42642463
 link: http://traffic.libsyn.com/upupshow/upup11.mp3
 summary: "Myke Hurley, world-renowned podcaster, joins us to discuss portable consoles, the future of the PS Vita, and the iPhone as a portable game console."

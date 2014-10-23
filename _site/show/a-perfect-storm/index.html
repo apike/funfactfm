@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-          <title>2. A Perfect Storm of Crummy Business Decisions - Up Up Down Down</title>
+          <title>2. A Perfect Storm of Crummy Business Decisions - Up Up Down Down Podcast</title>
         
 
         <link rel="stylesheet" href="/css/main.css">
@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,30 +96,31 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <hr>
 
-<h1><a href='.'>2. A Perfect Storm of Crummy Business Decisions</a></h1>
+<h2><a href='.'>2. A Perfect Storm of Crummy Business Decisions</a></h2>
 <div class="post">
-<p><a href='https://twitter.com/kaler'>Parveen Kaler</a> joins us to discuss sequels, plastic guitars, and the unfair advantage of being Batman.</p>
+<p><a href="https://twitter.com/kaler">Parveen Kaler</a> joins us to discuss sequels, plastic guitars, and the unfair advantage of being Batman.</p>
 
 <ul>
-<li><a href='http://en.wikipedia.org/wiki/Guitar_Hero#Oversaturation'>Guitar Hero&#8217;s 20 games in 5 years</a></li>
-
-<li><a href='http://www.metacritic.com/browse/games/score/metascore/year/ps3?view=condensed&amp;sort=desc&amp;year_selected=2013'>Top Rated Games of 2013</a></li>
-
-<li><a href='http://www.rottentomatoes.com/top/bestofrt/?year=2013'>Top Rated Films of 2013</a></li>
-
-<li><a href='http://www.steamclock.com/'>Steamclock Software</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Guitar_Hero#Oversaturation">Guitar Hero’s 20 games in 5 years</a></li>
+  <li><a href="http://www.metacritic.com/browse/games/score/metascore/year/ps3?view=condensed&amp;sort=desc&amp;year_selected=2013">Top Rated Games of 2013</a></li>
+  <li><a href="http://www.rottentomatoes.com/top/bestofrt/?year=2013">Top Rated Films of 2013</a></li>
+  <li><a href="http://www.steamclock.com/">Steamclock Software</a></li>
 </ul>
 
-<p><a href="http://traffic.libsyn.com/upupshow/upup2.mp3">Play (1:09:37)</a>  &bull; Feb 28, 2014 </p>
+
+<audio controls="controls">  
+   <source src="http://traffic.libsyn.com/upupshow/upup2.mp3" />  
+</audio> 
+<p><a href="http://traffic.libsyn.com/upupshow/upup2.mp3">Download (1:09:37)</a>  &bull; Feb 28, 2014 </p>
 
 </div>
 
@@ -123,6 +136,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

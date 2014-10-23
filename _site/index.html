@@ -54,6 +54,18 @@
           }
 
           document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
         </script>
 
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
@@ -84,452 +96,187 @@
             <li><a href='http://www.twitter.com/upupshow/'><span>Twitter</span> <img src="/images/twitter-icon.png"></a>
             <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <a href="/"><img id='logo' src="/images/logo.png"></a>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look the craft of making games. App developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> host an interesting guest each week. Chaos ensues.</p>
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each week with an interesting guest.</p>
 
 
 
           <div id="episodes">
 
   <hr>
-	<h1><a href='/show/being-a-bad-spiderman'>15. Being a Bad Spider-Man</a></h1>
-  <p><a href='http://www.twitter.com/scottstevenson'>Scott Stevenson</a> of <a href='http://lowearthorbit.fm'>Low Earth Orbit</a> joins us to talk open world games. We discuss side quests, railroading, and trying to tell a story when the player can ruin everything. As usual, we end with a diversion into games we&#8217;re excited about, and some peculiar Kickstarters.</p>
-
-<ul>
-<li><a href='http://en.wikipedia.org/wiki/Thief_(video_game)'>Thief</a></li>
-
-<li>Hey cousin! <a href='http://knowyourmeme.com/memes/lets-go-bowling'>Let&#8217;s go bowling!</a></li>
-
-<li>Thank goodness <a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod'>everything is back to normal!</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Infamous_Second_Son'>Infamous Second Son</a></li>
-
-<li>Polygon&#8217;s <a href='http://www.polygon.com/2014/5/1/5672712/the-amazing-spider-man-2-review-swing-and-miss'>Spider-Man 2 Review</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Red_Dead_Redemption'>Red Dead Redemption</a></li>
-
-<li><a href='http://uncharted.wikia.com/wiki/Nathan_Drake'>Nathan Drake</a></li>
-
-<li>Radical&#8217;s <a href='http://en.wikipedia.org/wiki/Prototype_(video_game)'>Prototype</a></li>
-
-<li><a href='http://arstechnica.com/gaming/2012/07/microsoft-comes-under-fire-for-five-figure-xbox-360-patch-fee/'>Fez&#8217; $40,000 bug fix</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Fuel_(video_game)'>Fuel</a></li>
-
-<li>ReRoll, the Kickstarter for a <a href='http://www.rockpapershotgun.com/2014/02/04/survival-rpg-reroll-wants-to-map-most-of-the-world/'>game world that was literally the entire earth</a></li>
-
-<li><a href='http://www.polygon.com/2014/5/20/5714244/transistor-review-a-girl-and-her-sword'>Danielle Riendeau&#8217;s Transistor review</a></li>
-
-<li><a href='https://www.indiegogo.com/projects/shaq-fu-a-legend-reborn'>Shaq-Fu: A Legend Reborn</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup15a.mp3">Play (1:18:50)</a>  &bull; May 30, 2014 </p>
+	<h2><a href='/show/shakespeares-were-five-acts'>29. Shakespeares Were Five Acts</a></h2>
+ <p>1:22:28, Oct 23, 2014</p>
+  <p>Episodic Games with Ryan Payton  </p>
 
 
   <hr>
-	<h1><a href='/show/red-leds'>14. The Red LEDs Were Cheaper</a></h1>
-  <p>Ars Technica&#8217;s <a href='https://twitter.com/KyleOrl'>Kyle Orland</a> joins us to discuss the great failures in game consoles. We talk about our favourite doomed consoles, the story of Sega&#8217;s downfall, and Nintendo&#8217;s journey through the desert with the Wii U.</p>
-
-<ul>
-<li><a href='http://en.wikipedia.org/wiki/Apple_Pippin'>The Apple Pippin</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/TurboGrafx-16'>TurboGrafx-16</a></li>
-
-<li><a href='http://arstechnica.com/gaming/2013/06/are-the-ps4-and-xbox-one-really-that-expensive-historically/'>Console prices adjusted for inflation</a></li>
-
-<li>The heinously bad <a href='http://en.wikipedia.org/wiki/Plumbers_Don&apos;t_Wear_Ties'>Plumbers Don&#8217;t Wear Ties</a></li>
-
-<li>Steven Frank&#8217;s <a href='http://stevenf.com/2014/05/21/arcade-story/'>Dragon&#8217;s Lair story</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Virtual_Boy'>Virtual Boy</a></li>
-
-<li>The <a href='http://en.wikipedia.org/wiki/Sega_Saturn'>Sega Saturn</a></li>
-
-<li>The <a href='http://en.wikipedia.org/wiki/Dreamcast'>Sega Dreamcast</a></li>
-
-<li>Nintendo <a href='http://arstechnica.com/gaming/2014/05/nintendo-lowers-the-bar-for-hardware-sales-misses-anyway/'>lowering the bar for the Wii U and missing anyway</a></li>
-
-<li><a href='http://arstechnica.com/gaming/2014/05/dev-admits-to-valuing-pay-to-win-over-multiplayer-in-recent-soul-calibur/'>Paying to Win Soul Calibur</a></li>
-
-<li><a href='http://arstechnica.com/gaming/2014/05/treading-the-bloody-world-of-orcish-politics-in-middle-earth-shadow-of-mordor/'>Shadow of Mordor preview</a></li>
-
-<li><a href='http://arstechnica.com/gaming/2014/04/digging-up-meaning-from-the-rubble-of-an-excavated-atari-landfill/'>The Atari Landfill</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup14a.mp3">Play (1:17:37)</a>  &bull; May 23, 2014 </p>
+	<h2><a href='/show/boar-killing-bots'>28. 400,000 Boar-killing Bots</a></h2>
+ <p>1:18:24, Oct 18, 2014</p>
+  <p>Scaling Games with Kristen Bornemann  </p>
 
 
   <hr>
-	<h1><a href='/show/qwop-sort-of-humour'>13. A QWOP Sort of Humour</a></h1>
-  <p>Developer and humourist <a href='https://twitter.com/classam'>Curtis Lassam</a> joins us to discuss humour in games. We discuss comically hard games, sandboxes as a vehicle for comedy, what makes it hard to write a funny game, and a goat.</p>
-
-<ul>
-<li><a href='http://octodadgame.com/'>Octodad</a></li>
-
-<li><a href='http://www.foddy.net/Athletics.html'>QWOP</a></li>
-
-<li><a href='http://www.enviro-bear.com/'>Enviro-Bear 2000</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Worms_(series)'>The Worms series</a></li>
-
-<li><a href='http://lparchive.org/Dwarf-Fortress-Boatmurdered/'>Dwarf Fortress Boatmurdered</a></li>
-
-<li>Team Fortress&#8217; <a href='http://www.teamfortress.com/movies.php'>&#8220;Meet The Team&#8221; shorts</a></li>
-
-<li><a href='http://www.steamclock.com/'>Steamclock Software</a></li>
-
-<li><a href='https://www.youtube.com/watch?v=i8glYx2qQx4'>Cave Johnson&#8217;s dialogue</a> from Portal 2</li>
-
-<li><a href='https://www.youtube.com/watch?v=Xkt3ZTIZczA'>The dialogue in Duke Nukem Forever</a></li>
-
-<li><a href='https://www.youtube.com/watch?v=dvWGLcdI8o8'>Goat Simulator Trailer</a></li>
-
-<li><a href='https://www.youtube.com/watch?v=mWZLa4AnN5k'>&#8220;Xbox Sign Out&#8221; trolling</a></li>
-
-<li><a href='http://spelunkyworld.com/'>Spelunky</a></li>
-
-<li>Super Time Force <a href='http://www.polygon.com/2014/5/13/5695860/super-time-force-review'>review on Polygon</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup13a.mp3">Play (1:05:32)</a>  &bull; May 16, 2014 </p>
+	<h2><a href='/show/a-tiny-game-that-you-can-play-forever'>27. A Tiny Game That You Can Play Forever</a></h2>
+ <p>1:14:26, Oct 03, 2014</p>
+  <p>Puzzle Games with Asher Vollmer  </p>
 
 
   <hr>
-	<h1><a href='/show/first-person-monkey-island'>12. First Person Shooter Monkey Island</a></h1>
-  <p><a href='http://www.twitter.com/mrgan/'>Neven Mrgan</a>, designer of wonderful apps and games, joins us to discuss retro games. We discuss his upcoming game Space Age, the challenges of pixel art, and Neven&#8217;s previous games The Incident and Blackbar.</p>
-
-<ul>
-<li><a href='http://spaceageapp.com'>Space Age</a></li>
-
-<li><a href='http://bigbucketsoftware.com/theincident/'>The Incident</a></li>
-
-<li><a href='http://research.microsoft.com/en-us/um/people/kopf/pixelart/'>Scaling Pixel Art</a> from Microsoft Research</li>
-
-<li>Gus Mueller&#8217;s excellent <a href='http://www.flyingmeat.com/acorn/'>Acorn</a></li>
-
-<li><a href='https://twitter.com/shauninman/status/462323919353958400'>Shaun Inman&#8217;s letter M</a></li>
-
-<li><a href='http://www.swordandsworcery.com/'>Sword and Sworcery</a></li>
-
-<li><a href='http://retrogamecrunch.com/'>Retro Game Crunch</a></li>
-
-<li><a href='https://www.youtube.com/watch?v=3bInZ7_y4Lw'>Monkey Island in CryEngine</a></li>
-
-<li><a href='http://www.siliconera.com/2014/05/01/one-lives-forever-trademark-filed-night-dive-studios/'>The rights to No One Lives Forever</a></li>
-
-<li><a href='http://www.firewatchgame.com/'>Firewatch</a></li>
-
-<li><a href='http://toucharcade.com/2013/08/08/paradox-factor-review/'>Paradox Factor</a></li>
-
-<li><a href='http://mrgan.com/blackbar/'>Blackbar</a></li>
-
-<li><a href='http://www.metacritic.com/game/ios/hitman-go'>Hitman GO</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup12.mp3">Play (1:04:51)</a>  &bull; May 09, 2014 </p>
+	<h2><a href='/show/final-final-real-final-wav'>26. Final_Final_REAL_FINAL_v5.wav</a></h2>
+ <p>1:11:47, Sep 23, 2014</p>
+  <p>Audio Design with Matt Marteinsson  </p>
 
 
   <hr>
-	<h1><a href='/show/secret-alien-technology'>11. Secret Alien Technology</a></h1>
-  <p><a href='http://twitter.com/imyke'>Myke Hurley</a>, world-renowned podcaster, joins us to discuss portable consoles, the future of the PS Vita, and the iPhone as a portable game console.</p>
-
-<ul>
-<li><a href='http://5by5.tv/directional'>Directional</a>, Myke&#8217;s gaming podcast with Federico Viticci</li>
-
-<li><a href='http://www.playstation.com/en-us/games/olliolli-psvita'>OlliOlli</a> for PS Vita</li>
-
-<li><a href='http://us.playstation.com/psvita/indie/'>Indie games on the PS Vita</a></li>
-
-<li><a href='http://store.apple.com/ca/product/HE449ZM/A/moga-ace-power-game-controller'>MOGA Power Ace Game Controller for iOS</a></li>
-
-<li><a href='http://www.vgchartz.com/'>VGChartz</a>, purveyor of worldwide console sales numbers</li>
-
-<li><a href='http://www.youtube.com/watch?v=daBA3btdVKQ'>One Song, 7.5 Writers</a> by I Fight Dragons</li>
-
-<li><a href='http://phlogiston.bandcamp.com/'>Eirik Suhrke’s wonderful video game music</a></li>
-
-<li><a href='https://itunes.apple.com/us/app/hitman-go/id731645633?mt=8'>Hitman GO</a></li>
-
-<li><a href='http://david-smith.org/blog/2014/04/16/towards-a-better-app-store/'>David Smith on how to improve the App Store</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup11.mp3">Play (1:11:04)</a>  &bull; May 02, 2014 </p>
+	<h2><a href='/show/unreal'>25. So Unreal is Just Amazing</a></h2>
+ <p>1:32:21, Sep 05, 2014</p>
+  <p>Game Engines with Jeff Lamarche  </p>
 
 
   <hr>
-	<h1><a href='/show/nobody-has-gold-stars'>10. Nobody Has Gold Stars</a></h1>
-  <p><a href='http://www.twitter.com/_gtz_'>Grace &#8220;GTZ&#8221;</a> of Fat, Ugly, or Slutty joins us to discuss jerks on Xbox Live, getting people to play nice together, and hellbanning.</p>
-
-<ul>
-<li><a href='http://fatuglyorslutty.com/'>Fat, Ugly, or Slutty</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/League_of_Legends'>League of Legends</a> and the fine art of <a href='http://leagueoflegends.wikia.com/wiki/Jungling'>Jungling</a></li>
-
-<li><a href='http://gbitk.tumblr.com/post/61477751672/pax-prime-2013-panel-designing-shaping-and'>Grace&#8217;s panels at PAX 2013 and earlier</a> about positively shaping player behaviour</li>
-
-<li><a href='http://www.gamesindustry.biz/articles/2013-05-15-talking-shop-riot-games-lead-designer-of-social-systems'>Riot Games&#8217; experiments with Restricted Chat Mode</a> and <a href='http://www.gamasutra.com/blogs/JimCummings/20130331/189629/GDC_Riot_Experimentally_Investigates_Online_Toxicity.php'>toxic behaviour</a></li>
-
-<li><a href='http://hypercritical.co/2012/11/27/strange-game'>The lessons Journey teaches us</a></li>
-
-<li>Guild Wars 2 staff <a href='http://www.reddit.com/r/Guildwars2/comments/yxx3m/suspensions_for_offensive_names_and_inappropriate/'>respond to Redditors as to why their account was banned</a></li>
-
-<li><a href='http://castro.fm'>Castro</a>, the nicest podcast app</li>
-
-<li><a href='http://majornelson.com/2013/06/11/xbox-one-smart-match/'>Smart Match</a>, Xbox Live&#8217;s version of <a href='http://blog.codinghorror.com/suspension-ban-or-hellban/'>hellbanning</a></li>
-
-<li><a href='http://www.reddit.com/r/gaming/comments/1nzo1y/gta_5_online_everyone_is_trevor'>Everybody is a Trevor</a> in GTA V Online</li>
-
-<li><a href='http://www.multiplayerpiano.com/'>Multiplayer piano</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup10.mp3">Play (1:08:57)</a>  &bull; Apr 25, 2014 </p>
+	<h2><a href='/show/walking-with-a-voiceover'>24. Walking with a Voiceover</a></h2>
+ <p>1:14:10, Aug 15, 2014</p>
+  <p>Content and Systems with Daniel Cook  </p>
 
 
   <hr>
-	<h1><a href='/show/clicking-on-cows'>9. Getting Bored of Clicking On Cows</a></h1>
-  <p><a href='http://www.twitter.com/angelinamagnum'>Angelina Fabbro</a> of Mozilla joins us to discuss games on the web, why the hell people are still using C++, and business models for web-based games. After that, we jump in to games we&#8217;re playing on the iPad, what&#8217;s wrong with MMOs, and how Pokémon will never die.</p>
-
-<ul>
-<li><a href='https://blog.mozilla.org/blog/2014/03/18/gdc-2014-mozilla-and-partners-prove-the-web-is-the-platform-for-gaming/'>Mozilla&#8217;s GDC 2014 announcements</a></li>
-
-<li>Unreal 4&#8217;s <a href='http://www.polygon.com/2014/3/19/5526094/unreal-engine-4-subscription-epic-games'>pricing drop to $19 per month</a></li>
-
-<li><a href='https://unity3d.com/'>The Unity 3d Engine</a></li>
-
-<li><a href='http://www.mozilla.org/en-US/about/manifesto/'>The Mozilla Manifesto</a></li>
-
-<li><a href='http://asmjs.org/'>asm.js</a>, the low-level subset of JavaScript</li>
-
-<li><a href='http://mbebenita.github.io/LLJS/'>LLJS</a></li>
-
-<li><a href='http://orteil.dashnet.org/cookieclicker/'>Cookie Clicker</a></li>
-
-<li><a href='http://www.playverse.com/Anonplayer/0-a2aadd1b76e14d0e848ea1de18dca4e8'>Monster Madness</a> in WebGL</li>
-
-<li><a href='http://demoseen.com/webglenabler/'>WebGL on iOS devices</a></li>
-
-<li><a href='http://www.gamasutra.com/view/news/213647/Epics_Tim_Sweeney_lays_out_the_case_for_Unreal_Engine_4.php'>The death of UnrealScript</a> in favour of&#8230; C++.</li>
-
-<li><a href='http://www.ftlgame.com/'>FTL for iPad</a></li>
-
-<li><a href='http://www.camouflaj.com/'>Republique</a></li>
-
-<li><a href='http://www.freelives.net/broforce-game'>BROFORCE</a></li>
-
-<li><a href='http://www.ironcladtactics.com/'>Ironclad Tactics</a></li>
-
-<li><a href='http://us.battle.net/hearthstone/en/'>Hearthstone</a>, which is clearly better than Magic</li>
-
-<li><a href='http://www.imdb.com/title/tt0803096/'>Warcraft: the Movie</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Super_Mario_3D_World'>New Super Mario Bros. Wii U 3D World Bros. U</a></li>
-
-<li><a href='http://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pok%C3%A9mon)'>Garbador</a>, the garbage-type Pokemon</li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup9.mp3">Play (1:27:51)</a>  &bull; Apr 18, 2014 </p>
+	<h2><a href='/show/how-not-to-doom-yourself'>23. How Not to Doom Yourself</a></h2>
+ <p>1:06:39, Aug 08, 2014</p>
+  <p>Failed Games with Curtis Lassam  </p>
 
 
   <hr>
-	<h1><a href='/show/architecture-and-forgiveness'>8. Architecture and Forgiveness</a></h1>
-  <p>Monument Valley&#8217;s <a href='http://www.twitter.com/kenwongart'>Ken Wong</a> joins us to discuss games as art, Monument Valley, and the business of crafting meaningful games.</p>
-
-<ul>
-<li><a href='http://www.monumentvalleygame.com/'>Monument Valley</a></li>
-
-<li><a href='http://www.rogerebert.com/rogers-journal/video-games-can-never-be-art'>Video games can never be art</a> by Roger Ebert</li>
-
-<li><a href='http://en.wikipedia.org/wiki/Journey_(2012_video_game)'>Journey</a></li>
-
-<li><a href='http://www.gonehomegame.com/'>Gone Home</a> and why you should play it instead of <a href='http://dear-esther.com/'>Dear Esther</a></li>
-
-<li><a href='http://www.threesgame.com/'>Threes</a>, the tiny puzzle that grows on you</li>
-
-<li><a href='https://www.youtube.com/watch?v=qjOZtWZ56lc'>Numberwang</a></li>
-
-<li><a href='http://louhuang.com/2048-numberwang/'>2048 Numberwang</a></li>
-
-<li><a href='http://hcsoftware.sourceforge.net/passage/'>Passage</a></li>
-
-<li><a href='http://www.swordandsworcery.com/'>Sword and Sworcery</a></li>
-
-<li>Ken&#8217;s last game, <a href='http://www.hackycat.com/'>HackyCat</a></li>
-
-<li><a href='http://windosill.com/'>Windosill</a></li>
-
-<li><a href='http://asherv.com/threes/threemails/'>The arduous process of making Threes</a></li>
-
-<li><a href='http://www.koryheath.com/zendo/design-history/'>The design of Zendo</a></li>
-
-<li><a href='http://www.antichamber-game.com/'>Antichamber</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup8.mp3">Play (1:26:52)</a>  &bull; Apr 11, 2014 </p>
+	<h2><a href='/show/games-are-things-made-by-people'>22. Games Are Things Made By People</a></h2>
+ <p>1:09:41, Jul 18, 2014</p>
+  <p>Indie Collaboration with Adam 'Atomic' Saltsman  </p>
 
 
   <hr>
-	<h1><a href='/show/criticizing-water'>7. Criticizing Water For Being Wet</a></h1>
-  <p><a href='https://twitter.com/scottstevenson'>Scott Stevenson</a> of <a href='http://lowearthorbit.fm/'>Low Earth Orbit</a> joins us to discuss game reviews, game-breaking bugs, and what&#8217;s wrong with Lara Croft getting impaled.</p>
-
-<ul>
-<li><a href='http://ca.ign.com/articles/2012/10/30/assassins-creed-iii-review'>IGN&#8217;s Assassin’s Creed 3 Review</a></li>
-
-<li><a href='http://elderscrolls.wikia.com/wiki/Bugs_(Skyrim)'>A few hundred of Skyrim&#8217;s bugs</a></li>
-
-<li>Double Fine’s <a href='http://www.hacknslashthegame.com/'>Hack and Slash</a></li>
-
-<li>The <a href='http://www.vancocoa.com/'>VanCocoa meetup</a></li>
-
-<li><a href='http://www.polygon.com/2013/7/31/4553958/dragons-crown-review-heavy-metal'>Polygon’s Dragon’s Crown review</a></li>
-
-<li><a href='http://www.polygon.com/pages/about-reviews'>Polygon’s review policy</a></li>
-
-<li><a href='http://jeff-vogel.blogspot.ca/2013/11/tomb-raider-torture-porn-and-looking.html'>Tomb Raider, Torture Porn, and Looking For an Audience That Exists</a> by Jeff Vogel</li>
-
-<li><a href='http://en.wikipedia.org/wiki/Fat_Princess'>Fat Princess</a></li>
-
-<li><a href='http://en.wikipedia.org/wiki/Infamous_Second_Son'>inFamous for PS4</a></li>
-
-<li>Old Man Murray’s <a href='http://www.oldmanmurray.com/features/39.html'>Time to Crate Review System</a></li>
-
-<li><a href='mailto:hello@upup.fm'>Send us feedback on the show</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup7.mp3">Play (1:28:45)</a>  &bull; Apr 04, 2014 </p>
+	<h2><a href='/show/complete-tub-of-crap'>21. A Complete Tub of Crap</a></h2>
+ <p>1:38:41, Jul 18, 2014</p>
+  <p>3D APIs with Guy English  </p>
 
 
   <hr>
-	<h1><a href='/show/filled-up-with-cabbage'>6. My Whole Colony Filled Up With Cabbage</a></h1>
-  <p>Gaslamp Games’ <a href='https://twitter.com/dgbaumgart'>David Baumgart</a> joins us to discuss Clockwork Empires, simulations, and pickled fungi.</p>
-
-<ul>
-<li>Rock Paper Shotgun&#8217;s <a href='http://www.rockpapershotgun.com/2014/03/20/clockwork-empires-preview/'>wonderful preview of Clockwork Empires</a></li>
-
-<li><a href='http://dfstories.com/'>Dwarf Fortress Stories</a></li>
-
-<li><a href='http://blackandwhite.wikia.com/wiki/Creature_training'>Creature training</a> in Black &amp; White</li>
-
-<li><a href='http://www.allenpike.com/engineering-faith/'>Engineering Faith</a>, the ill-fated religion simulator</li>
-
-<li><a href='http://cube-drone.com/index.html'>Cube Drone</a></li>
-
-<li><a href='http://lowearthorbit.fm/2014/03/07/spacebase-df-9/'>Low Earth Orbit episode 34</a> on Spacebase DF-9</li>
-
-<li>PC Gamer&#8217;s <a href='https://www.youtube.com/watch?v=QRJ1B4DknOY'>gameplay footage of Clockwork Empires</a></li>
-
-<li><a href='http://www.polygon.com/2014/3/26/5550798/3d-realms-fires-back-at-gearbox-duke-nukem-lawsuit'>Duke Nukem lawsuit</a></li>
-
-<li><a href='https://www.youtube.com/watch?v=G-2dQoeqVVo'>Michael Abrash&#8217;s talk on what&#8217;s next in VR</a></li>
-
-<li><a href='http://www.gaslampgames.com/2014/03/05/pickle-that-fungus/'>An excruciatingly detailed fungus pickling simulator</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup6.mp3">Play (1:14:45)</a>  &bull; Mar 28, 2014 </p>
+	<h2><a href='/show/thats-not-my-shepard'>20. That's Not My Shepard</a></h2>
+ <p>1:30:50, Jul 12, 2014</p>
+  <p>Narrative with Amanda Warner and Brianna Wu  </p>
 
 
   <hr>
-	<h1><a href='/show/you-die-instantly'>5. You Die Instantly</a></h1>
-  <p><a href='http://www.twitter.com/tysonkallberg/'>Tyson Kallberg</a> joins us to discuss why games are getting easier, what makes us want to ragequit, and death by checkpoint.</p>
-
-<ul>
-<li><a href='http://en.wikipedia.org/wiki/Super_Mario_Bros.:_The_Lost_Levels'>Super Mario Bros: The Lost Levels</a></li>
-
-<li><a href='http://www.rockpapershotgun.com/2011/09/19/deus-ex-hrs-boss-fights-were-outsourced/'>Deus Ex: Human Revolutions&#8217;s outsourced boss battles</a></li>
-
-<li><a href='http://wiki.teamfortress.com/wiki/Deathcam'>The Team Fortress 2 Deathcam</a></li>
-
-<li><a href='http://5by5.tv/hypercritical/64'>You Will Die Instantly!</a>, the episode of Hypercritical that we accidentally nearly quote, then later refer to</li>
-
-<li><a href='https://www.youtube.com/watch?v=f_dy9a8ElAQ'>Ikaruga Rage Quit</a></li>
-
-<li><a href='http://www.polygon.com/features/2014/2/24/5419788/eve-online-thrilling-boring'>Eve Online: The Most Thrilling Boring Game</a></li>
-
-<li>Please take a minute and <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>rate the show on iTunes</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup5.mp3">Play (1:14:42)</a>  &bull; Mar 21, 2014 </p>
+	<h2><a href='/show/they-shipped-it-anyway'>19. They Shipped It Anyway</a></h2>
+ <p>1:05:04, Jul 04, 2014</p>
+  <p>Porting Games with Philippe Casgrain  </p>
 
 
   <hr>
-	<h1><a href='/show/it-shipped'>4. It Shipped And It Was Fast</a></h1>
-  <p><a href='http://www.twitter.com/gte/'>Guy English</a> and Nigel tell tales of the hacks that make games work, from fast inverse square root to assembly shenanigans. Allen tries to keep things understandable for non-programmers, and fails spectacularly.</p>
-
-<ul>
-<li><a href='https://www.youtube.com/watch?v=wYE1iZOTeI8'>Pac-Man for the Atari 2600</a></li>
-
-<li><a href='http://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/'>Fast Inverse Square Root</a></li>
-
-<li><a href='http://www.newyorker.com/online/blogs/elements/2014/01/a-journey-to-the-end-of-the-world-of-minecraft.html'>The End of the World of Minecraft</a></li>
-
-<li><a href='http://www.vancocoa.com/'>The VanCocoa meetup</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup4.mp3">Play (1:33:56)</a>  &bull; Mar 14, 2014 </p>
+	<h2><a href='/show/there-are-no-rules'>18. There Are No Rules</a></h2>
+ <p>59:19, Jun 27, 2014</p>
+  <p>Games for Kids with Amanda Rösler  </p>
 
 
   <hr>
-	<h1><a href='/show/three-quarters'>3. Three Quarters of Half-Life One</a></h1>
-  <p><a href='http://www.twitter.com/patr1ck/'>Patrick Gibson</a> joins us to discuss games that are too long, side quests, tearing up, and flapping.</p>
-
-<ul>
-<li><a href='http://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)'>Tomb Raider 2013</a></li>
-
-<li><a href='http://ca.ign.com/wikis/assassins-creed-3/Almanac_Pages'>Ben Franklin&#8217;s Almanac Pages</a></li>
-
-<li><a href='http://www.gamasutra.com/blogs/RaminShokrizade/20130626/194933/'>The Top Free to Play Monetization Tricks</a></li>
-
-<li><a href='http://terrycavanaghgames.com/maverickbird/'>Maverick Bird</a></li>
-
-<li><a href='http://i.imgur.com/WXgIlL4.png'>Patrick’s Flappy Bird high score</a></li>
-
-<li><a href='http://www.squarespace.com/'>Squarespace</a>, the all-in-one platform that makes it fast and easy to create your own professional website.</li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup3.mp3">Play (1:10:52)</a>  &bull; Mar 07, 2014 </p>
+	<h2><a href='/show/the-main-character-is-a-serial-killer'>17. The Main Character is a Serial Killer!</a></h2>
+ <p>1:06:33, Jun 20, 2014</p>
+  <p>Morality in Games with Peter Cohen  </p>
 
 
   <hr>
-	<h1><a href='/show/a-perfect-storm'>2. A Perfect Storm of Crummy Business Decisions</a></h1>
-  <p><a href='https://twitter.com/kaler'>Parveen Kaler</a> joins us to discuss sequels, plastic guitars, and the unfair advantage of being Batman.</p>
-
-<ul>
-<li><a href='http://en.wikipedia.org/wiki/Guitar_Hero#Oversaturation'>Guitar Hero&#8217;s 20 games in 5 years</a></li>
-
-<li><a href='http://www.metacritic.com/browse/games/score/metascore/year/ps3?view=condensed&amp;sort=desc&amp;year_selected=2013'>Top Rated Games of 2013</a></li>
-
-<li><a href='http://www.rottentomatoes.com/top/bestofrt/?year=2013'>Top Rated Films of 2013</a></li>
-
-<li><a href='http://www.steamclock.com/'>Steamclock Software</a></li>
-</ul>
-
-	<p><a href="http://traffic.libsyn.com/upupshow/upup2.mp3">Play (1:09:37)</a>  &bull; Feb 28, 2014 </p>
+	<h2><a href='/show/looney-tunes-stealth'>16. The Looney Tunes School of Stealth</a></h2>
+ <p>1:12:06, Jun 13, 2014</p>
+  <p>Stealth with Justin Voss  </p>
 
 
   <hr>
-	<h1><a href='/show/container-of-monetary-units'>1. Container of Monetary Units</a></h1>
-  <p><a href='http://www.twitter.com/kump/'>Matt Kump</a> joins us to discuss In App Purchase, what horrible things it&#8217;s done to the games we love, and what we can learn from Party Poker.</p>
+	<h2><a href='/show/being-a-bad-spiderman'>15. Being a Bad Spider-Man</a></h2>
+ <p>1:18:50, May 30, 2014</p>
+  <p>Open Worlds with Scott Stevenson  </p>
 
-<ul>
-<li>
-<p><a href='http://en.wikipedia.org/wiki/Glitch_(video_game)'>Glitch</a></p>
-</li>
 
-<li>
-<p><a href='http://www.nytimes.com/2013/12/22/technology/master-of-his-virtual-domain.html?pagewanted=all&amp;_r=0'>Clash of Clans in the shower</a></p>
-</li>
+  <hr>
+	<h2><a href='/show/red-leds'>14. The Red LEDs Were Cheaper</a></h2>
+ <p>1:17:37, May 23, 2014</p>
+  <p>Failed Consoles with Kyle Orland  </p>
 
-<li>
-<p><a href='http://dribbble.com/shots/1381336-Game-Teaser'>Matt&#8217;s upcoming iOS game</a></p>
-</li>
 
-<li>
-<p><a href='http://www.steamclock.com/partymonster/'>Party Monster</a></p>
-</li>
-</ul>
+  <hr>
+	<h2><a href='/show/qwop-sort-of-humour'>13. A QWOP Sort of Humour</a></h2>
+ <p>1:05:32, May 16, 2014</p>
+  <p>Humour in Games with Curtis Lassam  </p>
 
-	<p><a href="http://traffic.libsyn.com/upupshow/upupep1.mp3">Play (1:11:44)</a>  &bull; Feb 21, 2014 </p>
+
+  <hr>
+	<h2><a href='/show/first-person-monkey-island'>12. First Person Shooter Monkey Island</a></h2>
+ <p>1:04:51, May 09, 2014</p>
+  <p>Retro Games with Neven Mrgan  </p>
+
+
+  <hr>
+	<h2><a href='/show/secret-alien-technology'>11. Secret Alien Technology</a></h2>
+ <p>1:11:04, May 02, 2014</p>
+  <p>Portable Games with Myke Hurley  </p>
+
+
+  <hr>
+	<h2><a href='/show/nobody-has-gold-stars'>10. Nobody Has Gold Stars</a></h2>
+ <p>1:08:57, Apr 25, 2014</p>
+  <p>Online Jerks with GTZ Grace  </p>
+
+
+  <hr>
+	<h2><a href='/show/clicking-on-cows'>9. Getting Bored of Clicking On Cows</a></h2>
+ <p>1:27:51, Apr 18, 2014</p>
+  <p>Web Games with Angelina Fabbro  </p>
+
+
+  <hr>
+	<h2><a href='/show/architecture-and-forgiveness'>8. Architecture and Forgiveness</a></h2>
+ <p>1:26:52, Apr 11, 2014</p>
+  <p>Games as Art with Ken Wong  </p>
+
+
+  <hr>
+	<h2><a href='/show/criticizing-water'>7. Criticizing Water For Being Wet</a></h2>
+ <p>1:28:45, Apr 04, 2014</p>
+  <p>Game Reviews with Scott Stevenson  </p>
+
+
+  <hr>
+	<h2><a href='/show/filled-up-with-cabbage'>6. My Whole Colony Filled Up With Cabbage</a></h2>
+ <p>1:14:45, Mar 28, 2014</p>
+  <p>Simulations with David Baumgart  </p>
+
+
+  <hr>
+	<h2><a href='/show/you-die-instantly'>5. You Die Instantly</a></h2>
+ <p>1:14:42, Mar 21, 2014</p>
+  <p>Game Difficulty with Tyson Kallberg  </p>
+
+
+  <hr>
+	<h2><a href='/show/it-shipped'>4. It Shipped And It Was Fast</a></h2>
+ <p>1:33:56, Mar 14, 2014</p>
+  <p>Horrible Hacks with Guy English  </p>
+
+
+  <hr>
+	<h2><a href='/show/three-quarters'>3. Three Quarters of Half-Life One</a></h2>
+ <p>1:10:52, Mar 07, 2014</p>
+  <p>Game Length with Patrick Gibson  </p>
+
+
+  <hr>
+	<h2><a href='/show/a-perfect-storm'>2. A Perfect Storm of Crummy Business Decisions</a></h2>
+ <p>1:09:37, Feb 28, 2014</p>
+  <p>Sequels with Parveen Kaler  </p>
+
+
+  <hr>
+	<h2><a href='/show/container-of-monetary-units'>1. Container of Monetary Units</a></h2>
+ <p>1:11:44, Feb 21, 2014</p>
+  <p>In App Purchase with Matt Kump  </p>
 
 
 </div>
@@ -546,6 +293,7 @@
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
             <a href='http://www.twitter.com/upupshow/'>Twitter</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
             <a href='mailto:hello@upup.fm'>Feedback</a>
           </p>
         </div>

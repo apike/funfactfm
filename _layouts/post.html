@@ -4,10 +4,13 @@ layout: default
 
 <hr>
 
-<h1><a href='.'>{{ page.title }}</a></h1>
+<h2><a href='.'>{{ page.title }}</a></h2>
 <div class="post">
 {{ content }}
 
-<p><a href="{{ page.link }}">Play ({{ page.duration }})</a>  &bull; {{ page.date | date: "%b %d, %Y" }} </p>
+<audio controls="controls">  
+   <source src="{{ page.link }}" />  
+</audio> 
+<p><a href="{{ page.link }}">Download ({{ page.duration }})</a>  &bull; {{ page.date | date: "%b %d, %Y" }} </p>
 
 </div>
