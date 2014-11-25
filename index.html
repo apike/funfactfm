@@ -5,16 +5,10 @@ isHome: true
 ---
 
 <div id="episodes">
+<hr>
 {% for page in site.posts %}
-  <hr>
 	<h2><a href='{{ page.url }}'>{{ page.title }}</a></h2>
-  {{ page.content }}
-
-	<audio controls="controls" preload="none">  
-		<source src="{{ page.link }}" />  
-	</audio> 
-
-	<p><a href="{{ page.link }}">Download ({{ page.duration }})</a>  &bull; {{ page.date | date: "%b %d, %Y" }} </p>
+  <p class='topic'>{{ page.topic }}<br><span class='topic-date'>{{ page.date | date: "%b %d, %Y" }} &bull; {{ page.duration }}</span></p>
 
 {% endfor %}
 </div>

@@ -10,7 +10,7 @@ h1 a {
 }
 
 #site {
-	width: 500px;
+	width: 600px;
 	font-family: "ff-meta-web-pro", Verdana;
 	margin: 0px auto;
 	font-size: 20px;
@@ -198,4 +198,12 @@ h3 {
 
 #theme {
 	text-align: center;
+}
+
+.topic {
+  margin-left: 1em;
+  font-size: 20px;
+}
+.topic-date {
+  color: #999;
 }
