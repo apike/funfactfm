@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+          <title>39. Strumming the Strum Button - Up Up Down Down Podcast</title>
+        
+
+        <link rel="stylesheet" href="/css/main.css">
+
+        <script type="text/javascript" src="//use.typekit.net/fzz8jle.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+        <link rel="author" href="https://plus.google.com/115189793104525758622" />
+        <meta name="google-site-verification" content="uYJSfs8tz-7ir-mWgqR_sjU8DyiVhKMibgy-CD5jkAA" />
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@upupfm">
+        <meta name="twitter:creator" content="@apike">
+        <meta name="twitter:title" content="Up Up Down Down 39. Strumming the Strum Button">
+        <meta name="twitter:description" content="Isometric's Steve Lubitz joins us to talk rhythm games. We start with the strange origins of rhythm games on the PlayStation in the 1990s and the craze of DDR. We dig in to the rise of plastic instruments, the joy of getting good at Rock Band, and the Great Plastic Crash of 2009. We touch on dance and karaoke games, and finish on what it takes for 3D to impress John Carmack.">
+        <meta name="twitter:image" content="http://upup.fm/images/logo.png">
+
+        <meta property="og:image" content="http://upup.fm/images/logo.png" /> 
+
+        <script type="text/javascript">
+          /* You know this is necessary. */
+
+          var keysPressed = [];
+          var konamiCode = ['38','38','40','40','37','39','37','39','66', '65'];
+
+          function danceParty() {
+              document.onkeydown = function(){};
+
+              document.getElementById('combo').innerHTML = "<div id='theme' class='dance'><audio src='/images/its-not-me-its-you.mp3' preload='auto' autoplay controls loop></audio><p>It's Not Me It's You by <a href='http://www.ifightdragons.com/'>I Fight Dragons</a></div>";
+              document.getElementById('logo').className = " dance";
+          }
+
+          function checkKey(e) {
+
+              e = e || window.event;
+
+              if (e.keyCode) {
+                keysPressed.push(e.keyCode);
+
+                if (keysPressed.length >= konamiCode.length) {
+                  keysPressed.splice(0, keysPressed.length - konamiCode.length); // discard extra keys
+
+                  for (var i = 0; i < konamiCode.length; i++) {
+                    if (keysPressed[i] != konamiCode[i]) {
+                      // NOPE
+                      return;
+                    }
+                  }
+
+                  console.log("BONUS GET!");
+                  danceParty();
+                }
+              }
+          }
+
+          document.onkeydown = checkKey;
+
+        /* oh my god this is disgusting */
+        var tid = setInterval( function () {
+          if ( document.readyState !== 'interactive' ) return;
+            clearInterval( tid );       
+            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
+              console.log('foo');
+              debugger;
+              document.body.className += ' mobileSafari';
+            }
+        }, 20 );
+
+        </script>
+
+        <meta name="viewport" content="width=700, maximum-scale=1.2" />
+        <link rel="alternate" type="application/atom+xml" href="/feed/" title="Atom feed">
+
+
+        <!-- CastRoller Claim Code 409b9d50d73ce13 -->
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-585700-11', 'upup.fm');
+          ga('send', 'pageview');
+
+        </script>
+
+    </head>
+    <body>
+
+    <div id="site">
+      <div id="header">
+          <ul id="nav">
+            <li><a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'><span>iTunes</span> <img src="/images/itunes-icon.png"></a></li>
+            <li><a href='/subscribe/'><span>Subscribe</span> <img src="/images/rss-icon.png"></a></li>
+            <li><a href='http://www.twitter.com/upupfm/'><span>@upupfm</span> <img src="/images/twitter-icon.png"></a>
+            <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
+          </ul>
+          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
+      </div>
+
+        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each episode with an interesting guest.</p>
+
+
+          <hr>
+
+<h2><a href='.'>39. Strumming the Strum Button</a></h2>
+<div class="post">
+<p>Isometric’s <a href="https://twitter.com/wickedgood">Steve Lubitz</a> joins us to talk rhythm games. We start with the strange origins of rhythm games on the PlayStation in the 1990s and the craze of DDR. We dig in to the rise of plastic instruments, the joy of getting good at Rock Band, and the Great Plastic Crash of 2009. We touch on dance and karaoke games, and finish on what it takes for 3D to impress John Carmack.</p>
+
+<ul>
+  <li>The surreal experiences of <a href="https://www.youtube.com/watch?v=F5Pm7BL-hyo">Parappa the Rapper</a> and <a href="https://www.youtube.com/watch?v=EbHO1ZYhtLk">Vib Ribbon</a></li>
+  <li><a href="http://www.upup.fm/show/a-perfect-storm/">UpUp No. 2, “A Perfect Storm of Crummy Business Decisions”</a> on sequels</li>
+  <li><a href="http://www.polygon.com/features/2015/3/5/8130935/rock-band-4-harmonix-ps4-xbox-one">Rock Band 4 is Coming</a> on Polygon</li>
+  <li><a href="http://www.retrogradegame.com/">Retro/Grade</a></li>
+  <li>Ryan Clark’s <a href="http://www.gamasutra.com/view/news/225547/Game_Design_Deep_Dive_Finding_the_beat_in_Crypt_of_the_NecroDancer.php">Finding the Beat in Crypt of the Necrodancer</a> in Gamasutra</li>
+  <li>Steve’s blog <a href="http://www.multiball.net/">Multiball</a></li>
+  <li>The <a href="https://twitter.com/Isometricshow">Isometric podcast</a>, <a href="http://www.extras.relay.fm/blog/2015/3/19/welcome-isometric">now on Relay.fm</a></li>
+</ul>
+
+
+<audio controls="controls">  
+   <source src="http://traffic.libsyn.com/upupshow/upup39.mp3" />  
+</audio> 
+<p><a href="http://traffic.libsyn.com/upupshow/upup39.mp3">Download (1:24:24)</a>  &bull; Mar 27, 2015 </p>
+
+</div>
+
+
+        <hr> 
+
+        <div id="footer">
+
+          <span id='combo'></span>
+
+          <p>Up Up Down Down is sponsored by <a href="http://www.steamclock.com/">Steamclock Software</a>.</p>
+          <p id="footer-nav">
+            <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
+            <a href='/subscribe/'>Subscribe</a> &bull;
+            <a href='http://www.twitter.com/upupfm/'>@upupfm</a> &bull;
+            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
+            <a href='mailto:hello@upup.fm'>Feedback</a>
+          </p>
+        </div>
+    </div>
+    </body>
+</html>
