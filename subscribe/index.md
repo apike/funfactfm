@@ -9,7 +9,7 @@ fulltitle: Fun Fact - Subscribe
 
 You can subscribe to the podcast in various ways:
 
-* [iTunes](https://itunes.apple.com/us/podcast/up-up-down-down/id825505015), which is also the place to leave reviews
-* [Open in Overcast](https://overcast.fm/itunes825505015), on an iPhone with [Overcast](http://overcast.fm/) installed
-* [Open in Castro](castro://subscribe/www.funfact.fm/feed/) on an iPhone with [Castro](http://castro.fm/) installed
+* [iTunes](https://itunes.apple.com/us/podcast/id1445347384), which is also the place to leave reviews
+* [Open in Overcast](https://overcast.fm/itunes1445347384), on an iPhone with [Overcast](http://overcast.fm/) installed
+* [Open in Castro](castro://subscribe/www.funfact.fm/feed/), on an iPhone with [Castro](http://castro.fm/) installed
 * [RSS](/feed/) for the purists
