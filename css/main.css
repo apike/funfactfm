@@ -1,7 +1,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background-color: #000;
+	background-color: #202021;
 }
 
 h1 a {
@@ -72,11 +72,11 @@ a:link, a:visited {
 }
 
 a:link {
-	color: #d7fe75;
+	color: #92ff97;
 }
 
 a:visited {
-	color: #d7fe75;
+	color: #92ff97;
 }
 
 a:hover {
@@ -99,11 +99,11 @@ hr {
 }
 
 h2 a:link, #nav a:hover, #footer-nav a:link {
-	color: #ed52e4;
+	color: #ff80e7;
 }
 
 h2 a:visited, #footer-nav a:visited {
-	color: #ed52e4;
+	color: #ff80e7;
 }
 
 
