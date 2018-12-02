@@ -8,47 +8,46 @@ layout: nil
  
 <channel>
  
-<title>Up Up Down Down</title>
+<title>Fun Fact</title>
  
-<link>http://www.upup.fm/</link>
+<link>http://www.funfact.fm/</link>
  
 <itunes:explicit>no</itunes:explicit>
 
 <language>en</language>
  
-<copyright>&#xA9; Steamclock Software</copyright>
+<copyright>&#xA9; Arik Devens and Allen Pike</copyright>
  
-<itunes:subtitle>The show about the ups and downs of the games industry.</itunes:subtitle>
+<itunes:subtitle>Two people talk about topics they find interesting.</itunes:subtitle>
  
-<itunes:author>Allen Pike and Nigel Brooke</itunes:author>
+<itunes:author>Arik Devens and Allen Pike</itunes:author>
  
-<itunes:keywords>video-games,games,gaming,games,upup,up,down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+<itunes:keywords>comedy,life,history,facts,trivia,film,arik,devens,allen,pike</itunes:keywords>
  
-<itunes:summary>App developers Allen Pike and Nigel Brooke host an interesting guest each week to discuss what's up and what's down in the games industry. Chaos ensues.</itunes:summary>
+<itunes:summary>Actual humans Arik Devens and Allen Pike chat each week about a series of facts, each triggering a conversation about something they find interesting.</itunes:summary>
  
-<description>The podcast about what's wrong and right in the games industry. App developers Allen Pike and Nigel Brooke host an interesting guest each week. Chaos ensues.</description>
+<description>Actual humans Arik Devens and Allen Pike chat each week about a series of facts, each triggering a conversation about something they find interesting.</description>
  
 <itunes:owner>
  
-<itunes:name>Up Up Down Down</itunes:name>
+<itunes:name>Fun Fact</itunes:name>
  
-<itunes:email>hello@upup.fm</itunes:email>
+<itunes:email>hello@funfact.fm</itunes:email>
  
 </itunes:owner>
  
-<itunes:image href="http://www.upup.fm/images/itunes.jpg" />
+<itunes:image href="http://www.funfact.fm/images/itunes.png" />
  
-<itunes:category text="Games &amp; Hobbies">
-	<itunes:category text="Video Games" />
+<itunes:category text="Society & Culture">
+</itunes:category>
+
+<itunes:category text="Comedy">
 </itunes:category>
  
 <itunes:category text="Technology">
-	<itunes:category text="Tech News" />
 </itunes:category>
-
-<itunes:category text="Comedy" />
   
-<itunes:new-feed-url>http://www.upup.fm/feed/</itunes:new-feed-url>
+<itunes:new-feed-url>http://www.funfact.fm/feed/</itunes:new-feed-url>
  
  {% for post in site.posts limit:50 %}
  
@@ -56,21 +55,21 @@ layout: nil
  
  <title>{{ post.title }}</title>
  
- <itunes:author>Allen Pike and Nigel Brooke</itunes:author>
+ <itunes:author>Arik Devens and Allen Pike</itunes:author>
  
- <itunes:subtitle>{{ post.title }} - Up Up Down Down</itunes:subtitle>
+ <itunes:subtitle>{{ post.title }} - Fun Fact</itunes:subtitle>
  
  <itunes:summary>{{ post.summary }}</itunes:summary>
 
 <description><![CDATA[{{ post.content}}]]></description>
  
- <itunes:image href="http://www.upup.fm/images/itunes.jpg" />
+ <itunes:image href="http://www.funfact.fm/images/itunes.jpg" />
 
- <link>http://www.upup.fm{{ post.url }}</link>
+ <link>http://www.funfact.fm{{ post.url }}</link>
  
  <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
  
- <guid>http://www.upup.fm{{ post.url }}</guid>
+ <guid>http://www.funfact.fm{{ post.url }}</guid>
  
  <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
  
@@ -78,7 +77,7 @@ layout: nil
 
  <itunes:explicit>{{ post.explicit }}</itunes:explicit>
  
- <itunes:keywords>video-games,games,up-up-down-down,gaming,games,upup,up,down,allen,pike,nigel,brooke,video,gamers</itunes:keywords>
+ <itunes:keywords>comedy,life,history,facts,trivia,film,arik,devens,allen,pike</itunes:keywords>
  
  </item>
  

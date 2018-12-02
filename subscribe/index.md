@@ -1,6 +1,6 @@
 ---
 layout: default
-fulltitle: Up Up Down Down - Subscribe
+fulltitle: Fun Fact - Subscribe
 ---
 
 -----------------
@@ -10,7 +10,6 @@ fulltitle: Up Up Down Down - Subscribe
 You can subscribe to the podcast in various ways:
 
 * [iTunes](https://itunes.apple.com/us/podcast/up-up-down-down/id825505015), which is also the place to leave reviews
-* [Open in Castro](castro://subscribe/www.upup.fm/feed/) on an iPhone with [Castro](http://castro.fm/) installed
+* [Open in Overcast](https://overcast.fm/itunes825505015), on an iPhone with [Overcast](http://overcast.fm/) installed
+* [Open in Castro](castro://subscribe/www.funfact.fm/feed/) on an iPhone with [Castro](http://castro.fm/) installed
 * [RSS](/feed/) for the purists
-* [Stitcher](http://www.stitcher.com/podcast/up-up-down-down)
-* Our Gold membership, where we burn each episode on a gold NES cartridge and mail it to you (subject to availability)
