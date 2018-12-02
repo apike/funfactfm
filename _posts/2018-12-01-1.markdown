@@ -1,8 +1,7 @@
 ---
 layout: post
 author: allen
-date: 2018-12-01 20:00:00
-slug: "cheese-scheme"
+date: "2018-12-01 20:00:00 -08:00"
 title: "1. Cheese Scheme"
 topic: "Arik’s car melts, Allen details a cheese scheme, and we review some critical tips for home and travel."
 duration: "52:02"

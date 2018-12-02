@@ -1,5 +1,5 @@
 name: Fun Fact
 
-permalink: /show/:title
+permalink: /episodes/:title
 
 baseurl: "http://www.funfact.fm/"
