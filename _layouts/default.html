@@ -18,64 +18,13 @@
         <meta name="google-site-verification" content="uYJSfs8tz-7ir-mWgqR_sjU8DyiVhKMibgy-CD5jkAA" />
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@upupfm">
+        <meta name="twitter:site" content="@funfactfm">
         <meta name="twitter:creator" content="@apike">
         <meta name="twitter:title" content="{% if page.title %}Up Up Down Down {{ page.title }}{% else %}Up Up Down Down{% endif %}">
         <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}Up Up Down Down is the show about the art and craft of video games.{% endif %}">
-        <meta name="twitter:image" content="http://upup.fm/images/logo.png">
+        <meta name="twitter:image" content="http://funfact.fm/images/logo.png">
 
-        <meta property="og:image" content="http://upup.fm/images/logo.png" /> 
-
-        <script type="text/javascript">
-          /* You know this is necessary. */
-
-          var keysPressed = [];
-          var konamiCode = ['38','38','40','40','37','39','37','39','66', '65'];
-
-          function danceParty() {
-              document.onkeydown = function(){};
-
-              document.getElementById('combo').innerHTML = "<div id='theme' class='dance'><audio src='/images/its-not-me-its-you.mp3' preload='auto' autoplay controls loop></audio><p>It's Not Me It's You by <a href='http://www.ifightdragons.com/'>I Fight Dragons</a></div>";
-              document.getElementById('logo').className = " dance";
-          }
-
-          function checkKey(e) {
-
-              e = e || window.event;
-
-              if (e.keyCode) {
-                keysPressed.push(e.keyCode);
-
-                if (keysPressed.length >= konamiCode.length) {
-                  keysPressed.splice(0, keysPressed.length - konamiCode.length); // discard extra keys
-
-                  for (var i = 0; i < konamiCode.length; i++) {
-                    if (keysPressed[i] != konamiCode[i]) {
-                      // NOPE
-                      return;
-                    }
-                  }
-
-                  console.log("BONUS GET!");
-                  danceParty();
-                }
-              }
-          }
-
-          document.onkeydown = checkKey;
-
-        /* oh my god this is disgusting */
-        var tid = setInterval( function () {
-          if ( document.readyState !== 'interactive' ) return;
-            clearInterval( tid );       
-            if (navigator.userAgent.match(/(iPad|iPhone|iPod touch);.*CPU.*OS 7_\d/i)) {
-              console.log('foo');
-              debugger;
-              document.body.className += ' mobileSafari';
-            }
-        }, 20 );
-
-        </script>
+        <meta property="og:image" content="http://funfact.fm/images/logo.png" /> 
 
         <meta name="viewport" content="width=700, maximum-scale=1.2" />
         <link rel="alternate" type="application/atom+xml" href="/feed/" title="Atom feed">
@@ -102,16 +51,13 @@
           <ul id="nav">
             <li><a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'><span>iTunes</span> <img src="/images/itunes-icon.png"></a></li>
             <li><a href='/subscribe/'><span>Subscribe</span> <img src="/images/rss-icon.png"></a></li>
-            <li><a href='http://www.twitter.com/upupfm/'><span>@upupfm</span> <img src="/images/twitter-icon.png"></a>
-            <li><a href='mailto:hello@upup.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
+            <li><a href='http://www.twitter.com/funfactfm/'><span>@funfactfm</span> <img src="/images/twitter-icon.png"></a>
+            <li><a href='mailto:hello@funfact.fm'><span>Feedback</span> <img src="/images/email-icon.png"></a></li>
           </ul>
-          <h1><a href="/">Up Up Down Down <img id='logo' src="/images/logo.png"></a></h1>
+          <h1><a href="/">Fun Fact <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p>The podcast that takes a critical look at the craft of making games. Developers <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/nigelbrooke/">Nigel Brooke</a> dig in to a new topic each episode with an interesting guest.</p>
-
-        <p>Up Up Down Down is <a href="https://www.allenpike.com/2016/new-here/">currently on hiatus</a>, though we have at least two more episodes coming. Eventually.</p>
-
+        <p>Two people chat about things they find interesting. Actual humans <a href="http://www.allenpike.com/">Allen Pike</a> and <a href="http://www.twitter.com/danieltiger/">Arik Devens</a> serve up new topics every other Friday.</p>
 
           {{ content }}
 
@@ -121,13 +67,12 @@
 
           <span id='combo'></span>
 
-          <p>Up Up Down Down is sponsored by <a href="http://www.steamclock.com/">Steamclock Software</a>.</p>
+          <p>Fun Fact is sponsored by <a href="http://www.steamclock.com/">Steamclock Software</a>.</p>
           <p id="footer-nav">
             <a href='https://itunes.apple.com/us/podcast/up-up-down-down/id825505015'>iTunes</a> &bull;
             <a href='/subscribe/'>Subscribe</a> &bull;
-            <a href='http://www.twitter.com/upupfm/'>@upupfm</a> &bull;
-            <a href='http://store.steampowered.com/curator/6862749/'>Steam</a> &bull;
-            <a href='mailto:hello@upup.fm'>Feedback</a>
+            <a href='http://www.twitter.com/funfactfm/'>@funfactfm</a> &bull;
+            <a href='mailto:hello@funfact.fm'>Feedback</a>
           </p>
         </div>
     </div>

@@ -1,5 +1,5 @@
-name: Up Up Down Down
+name: Fun Fact
 
 permalink: /show/:title
 
-baseurl: "http://www.upup.fm/"
+baseurl: "http://www.funfact.fm/"
