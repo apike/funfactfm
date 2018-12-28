@@ -7,7 +7,7 @@ topic: "Google News tortures Allen, Paris battles garbage barricades, and the Ro
 duration: "00:55:23"
 length: 39930030
 link: https://pinecast.com/listen/bfea6278-1926-4672-8585-f63af39393e1.mp3
-summary: "Allen doesn’t get fired, Arik introduces the horror that is the Alfa Romeo logo, and we learn the facts about garburators."
+summary: "Google News tortures Allen, Paris battles garbage barricades, and the Romans ruin our calendars."
 explicit: "no"
 
 ---
