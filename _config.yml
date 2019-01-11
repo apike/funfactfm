@@ -3,3 +3,5 @@ name: Fun Fact
 permalink: /episodes/:title
 
 url: "http://www.funfact.fm/"
+
+future: true
