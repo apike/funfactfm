@@ -2,4 +2,4 @@ name: Fun Fact
 
 permalink: /episodes/:title
 
-baseurl: "http://www.funfact.fm/"
+url: "http://www.funfact.fm/"
