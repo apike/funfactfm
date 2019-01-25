@@ -1,0 +1,27 @@
+---
+layout: post
+author: allen
+date: "2019-01-25 12:00:00 -08:00"
+title: "5. I Made This Be Good"
+topic: "Arik continues his tour of the Pacific Northwest, Allen tries not to get drafted, and we crack open more critical adulting tips."
+duration: "01:02:44"
+length: 45223312
+link: https://pinecast.com/listen/dc7c616c-37a7-48ef-b578-6c7231e63b56.mp3
+summary: "Arik continues his tour of the Pacific Northwest, Allen tries not to get drafted, and we crack open more critical adulting tips."
+explicit: "no"
+
+---
+ 
+Arik continues his tour of the Pacific Northwest, Allen tries not to get drafted, and we crack open more critical adulting tips.
+
+- [Say hello, new logo](https://slackhq.com/say-hello-new-logo) on the Slack Blog
+- [Brand New's take on Slack](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_slack_by_pentagram_and_in_house.php)
+- [How to pronounce Schlage](https://www.schlage.com/en/home/faq.html?how-to-pronounce-schlage)
+- [Do By Friday 56: On Fleck](http://dobyfriday.com/56)
+- [Shuswap Lake](https://en.wikipedia.org/wiki/Shuswap_Lake)
+- [2018 BC Electoral Referendum](https://en.wikipedia.org/wiki/2018_British_Columbia_electoral_reform_referendum)
+- [Single Transferable Vote](https://www.youtube.com/watch?v=l8XOZJkozfI)
+- [Point Roberts, Washington](https://en.wikipedia.org/wiki/Point_Roberts,_Washington)
+- [Enclaves and Exclaves](https://en.wikipedia.org/wiki/Enclave_and_exclave#”Practical”_enclaves,_exclaves_and_inaccessible_districts)
+- [The Hala'ib Triangle](https://en.wikipedia.org/wiki/Hala%27ib_Triangle)
+- WikiHow: [How to Find a Wood Stud in a Wall to Hang Pictures On](https://www.wikihow.com/Find-a-Wood-Stud-in-a-Wall-to-Hang-Pictures-On)
