@@ -8,13 +8,13 @@ layout: default
 <div class="post">
 {{ content }}
 
-{% assign megs = page.duration | split: ":" %}
+{% assign times = page.duration | split: ":" %}
 {% assign hourmins = times[0] | times:60 %}
 {% assign minutes = times[1] | plus:hourmins %}
 
 <audio controls="controls">  
    <source src="{{ page.link }}" />  
 </audio> 
-<p><a href="{{ page.link }}">Download ({{ minutes }} minutes)</a>  &bull; {{ page.date | date: "%b %d, %Y" }} </p>
+<p><a href="{{ page.link }}">Download</a>  &bull; {{ minutes }} minutes &bull; {{ page.date | date: "%b %d, %Y" }} </p>
 
 </div>
