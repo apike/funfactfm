@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2019-01-11 12:00:00 -08:00"
-title: "4. Adulting Life Hack Fact"
+title: "Adulting Life Hack Fact"
 topic: "We do some mass follow-up, Allen has a reckoning about movies, Arik 'splains Sesame Street, and Allen encounters Hamilton."
 duration: "01:08:00"
 length: 49017167

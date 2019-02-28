@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2019-02-08 12:00:00 -08:00"
-title: "6. Nobody's Getting Scurvy"
+title: "Nobody's Getting Scurvy"
 topic: "Allen goes deep on Nutrition Facts, we recap multiple culinary schemes, and Arik drops a history bomb."
 duration: "01:00:56"
 length: 29302894
