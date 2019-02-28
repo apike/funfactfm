@@ -49,11 +49,15 @@ layout: nil
   
 <itunes:new-feed-url>http://www.funfact.fm/feed/</itunes:new-feed-url>
  
- {% for post in site.posts limit:50 %}
+ {% for post in site.posts limit:100 %}
  
  <item>
  
  <title>{{ post.title }}</title>
+
+ <itunes:title>{{ post.title }}</itunes:title>
+
+ <itunes:episode>{{ post.slug }}</itunes:episode>
  
  <itunes:author>Arik Devens and Allen Pike</itunes:author>
  
@@ -77,7 +81,7 @@ layout: nil
 
  <itunes:explicit>{{ post.explicit }}</itunes:explicit>
  
- <itunes:keywords>comedy,life,history,facts,trivia,film,arik,devens,allen,pike</itunes:keywords>
+ <itunes:keywords>comedy,life,history,facts,trivia,fun facts,arik,devens,allen,pike</itunes:keywords>
  
  </item>
  
