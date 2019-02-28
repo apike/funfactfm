@@ -13,7 +13,7 @@ isHome: true
 {% assign minutes = times[1] | plus:hourmins %}
 
 	<h2><a href='{{ page.url }}'>{{ page.title }}</a></h2>
-  <p class='topic'>{{ page.topic }}<br><span class='topic-date'>{{ page.date | date: "%b %d, %Y" }} &bull; {{ minutes }} minutes</span></p>
+  <p class='topic'><span class='topic-date'>{{ page.date | date: "%b %d, %Y" }} &bull; Episode {{ page.slug }} &bull;  {{ minutes }} minutes</span><br>{{ page.topic }}</p>
 
 {% endfor %}
 </div>

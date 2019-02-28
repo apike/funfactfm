@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2018-12-14 12:00:00 -08:00"
-title: "2. Wait, It Gets Worse"
+title: "Wait, It Gets Worse"
 topic: "Allen doesn’t get fired, Arik introduces the horror that is the Alfa Romeo logo, and we learn the facts about garburators."
 duration: "1:05:32"
 length: 47258622

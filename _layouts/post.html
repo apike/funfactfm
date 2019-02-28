@@ -6,6 +6,8 @@ layout: default
 
 <h2><a href='.'>{{ page.title }}</a></h2>
 <div class="post">
+<span class="meta">{{ page.date | date: "%b %d, %Y" }} &bull; Episode {{ page.slug }} </span>
+
 {{ content }}
 
 {% assign times = page.duration | split: ":" %}
@@ -15,6 +17,6 @@ layout: default
 <audio controls="controls">  
    <source src="{{ page.link }}" />  
 </audio> 
-<p><a href="{{ page.link }}">Download</a>  &bull; {{ minutes }} minutes &bull; {{ page.date | date: "%b %d, %Y" }} </p>
+<p><a href="{{ page.link }}">Download</a>  &bull; {{ minutes }} minutes </p>
 
 </div>

@@ -24,9 +24,9 @@ layout: nil
  
 <itunes:keywords>comedy,life,history,facts,trivia,film,arik,devens,allen,pike</itunes:keywords>
  
-<itunes:summary>A bi-weekly show where Arik Devens and Allen Pike serve up incredibly important facts.</itunes:summary>
+<itunes:summary>Every other Friday, Arik Devens and Allen Pike take turns sharing fun facts. Practical, historical, technical, and trivial facts all deserve their fair shake.</itunes:summary>
  
-<description>A bi-weekly show where Arik Devens and Allen Pike serve up incredibly important facts.</description>
+<description>Every other Friday, Arik Devens and Allen Pike take turns sharing fun facts. Practical, historical, technical, and trivial facts all deserve their fair shake.</description>
  
 <itunes:owner>
  
@@ -49,11 +49,15 @@ layout: nil
   
 <itunes:new-feed-url>http://www.funfact.fm/feed/</itunes:new-feed-url>
  
- {% for post in site.posts limit:50 %}
+ {% for post in site.posts limit:100 %}
  
  <item>
  
  <title>{{ post.title }}</title>
+
+ <itunes:title>{{ post.title }}</itunes:title>
+
+ <itunes:episode>{{ post.slug }}</itunes:episode>
  
  <itunes:author>Arik Devens and Allen Pike</itunes:author>
  
@@ -77,7 +81,7 @@ layout: nil
 
  <itunes:explicit>{{ post.explicit }}</itunes:explicit>
  
- <itunes:keywords>comedy,life,history,facts,trivia,film,arik,devens,allen,pike</itunes:keywords>
+ <itunes:keywords>comedy,life,history,facts,trivia,fun facts,arik,devens,allen,pike</itunes:keywords>
  
  </item>
  

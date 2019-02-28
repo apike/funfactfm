@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2019-02-22 12:00:00 -08:00"
-title: "7. One Fact at a Time"
+title: "One Fact at a Time"
 topic: "Arik defends himself from Facebook, Allen defends himself from cougars, and Arik doesn't know what a hot hatch is."
 duration: "01:06:12"
 length: 31827386

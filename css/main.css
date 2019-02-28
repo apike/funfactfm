@@ -184,17 +184,6 @@ h3 {
   }
 }
 
-.dance {
-  -webkit-transform-origin: center center;
-  -ms-transform-origin: center center;
-  transform-origin: center center;
-  -webkit-animation-name: swing;
-  animation-name: swing;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  -webkit-animation-duration: 0.75s;
-  animation-duration: 0.75s;
-}
 
 #theme {
 	text-align: center;
@@ -206,4 +195,13 @@ h3 {
 }
 .topic-date {
   color: #999;
+}
+
+.post .meta {
+  color: #aaa;
+}
+
+#episodes h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0;
 }

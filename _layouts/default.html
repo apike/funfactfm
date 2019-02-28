@@ -5,8 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         {% if page.fulltitle %}
           <title>{{page.fulltitle}}</title>
+        {% elsif page.duration %}
+          <title>{{ page.title }} – Episode {{ page.slug }}, Fun Fact Podcast</title>
         {% else %}
-          <title>{{ page.title }} - Fun Fact Podcast</title>
+          <title>{{ page.title }} – Fun Fact Podcast</title>
         {% endif %}
 
         <link rel="stylesheet" href="/css/main.css">
@@ -59,7 +61,7 @@
           <h1><a href="/">Fun Fact <img id='logo' src="/images/logo.png"></a></h1>
       </div>
 
-        <p><a href="http://www.twitter.com/danieltiger/">Arik Devens</a> and <a href="http://www.allenpike.com/">Allen Pike</a> serve up incredibly important facts. New episode every other Friday.</p>
+        <p><a href="http://www.twitter.com/danieltiger/">Arik Devens</a> and <a href="http://www.allenpike.com/">Allen Pike</a> serve up fun facts, including the practical, historical, technical, and trivial. New episode every other Friday.</p>
 
           {{ content }}
 

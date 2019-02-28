@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2019-01-25 12:00:00 -08:00"
-title: "5. I Made This Be Good"
+title: "I Made This Be Good"
 topic: "Arik continues his tour of the Pacific Northwest, Allen tries not to get drafted, and we crack open more critical adulting tips."
 duration: "01:02:44"
 length: 45223312
