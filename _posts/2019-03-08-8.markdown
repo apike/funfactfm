@@ -1,0 +1,24 @@
+---
+layout: post
+author: allen
+date: "2019-03-08 12:00:00 -08:00"
+title: "A Scandal Hydra"
+topic: "Arik shows up the Titanic, Allen mutes everything, and we share some key bird facts."
+duration: "01:09:12"
+length: 33270600
+link: https://pinecast.com/listen/d051c0ad-f691-45bb-b594-a62c74a17b7f.mp3
+summary: "Arik shows up the Titanic, Allen mutes everything, and we share some key bird facts."
+explicit: "no"
+
+---
+ 
+Arik shows up the Titanic, Allen mutes everything, and we share some key bird facts.
+
+- How [not to lead a startup](https://twitter.com/phillipcaudell/status/1101081229351415808)
+- Lyle's [studfinding video](https://www.youtube.com/watch?v=cFEp3kQoO1M&feature=youtu.be)
+- [How to use advanced muting](https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options) on Twitter
+- A recent [tale of cougar defense](https://www.coloradoan.com/story/news/2019/02/14/colorado-man-attacked-mountain-lion-near-horsetooth-tells-survival-tale/2868486002/) from Colorado
+- The Olympic
+	- [The Titanic's Ghostly Twin](https://www.messynessychic.com/2019/02/13/seeing-double-the-titanics-ghostly-twin-sister/)
+	- [The RMS Olympic](https://en.wikipedia.org/wiki/RMS_Olympic)
+- Why a [turkey](https://en.wikipedia.org/wiki/Turkey_(bird)) is a [called a turkey](https://www.npr.org/templates/story/story.php?storyId=97541602)
