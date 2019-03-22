@@ -17,7 +17,7 @@ Allen offends some marsupials, Arik disproves Jesus, and we discuss a scheme for
 - The [toxic culture at Revolut](https://www.wired.co.uk/article/revolut-trade-unions-labour-fintech-politics-storonsky)
 - The “In case you missed it” regex for Tweetbot:
   - `(?i)(in.*case|if).*you.*missed.*it`
-- The "[Mother of the bride dress](https://twitter.com/Kristicuse/status/1072582431679614976)" 
+- The "[Mother of the bride dress](https://www.foxnews.com/lifestyle/risque-mother-of-the-bride-dress-goes-viral-on-twitter-gets-mercilessly-teased)" 
 - The [day there was no news](https://www.bbc.com/news/entertainment-arts-39633603)
 - [Jesus' name](https://en.wikipedia.org/wiki/Jesus_(name)):
   - [Jesus' language](https://en.wikipedia.org/wiki/Language_of_Jesus)
