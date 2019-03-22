@@ -1,0 +1,31 @@
+---
+layout: post
+author: allen
+date: "2019-03-22 12:00:00 -08:00"
+title: "Evolutionarily Deprecated"
+topic: "Allen offends some marsupials, Arik disproves Jesus, and we discuss a scheme for getting rich."
+duration: "01:07:35"
+length: 32492389
+link: https://pinecast.com/listen/ce321b0c-592b-42d1-bfb3-c692bd424d13.mp3
+summary: "Allen offends some marsupials, Arik disproves Jesus, and we discuss a scheme for getting rich."
+explicit: "yes"
+
+---
+ 
+Allen offends some marsupials, Arik disproves Jesus, and we discuss a scheme for getting rich.
+
+- The [toxic culture at Revolut](https://www.wired.co.uk/article/revolut-trade-unions-labour-fintech-politics-storonsky)
+- The “In case you missed it” regex for Tweetbot:
+  - `(?i)(in.*case|if).*you.*missed.*it`
+- The "[Mother of the bride dress](https://www.foxnews.com/lifestyle/risque-mother-of-the-bride-dress-goes-viral-on-twitter-gets-mercilessly-teased)" 
+- The [day there was no news](https://www.bbc.com/news/entertainment-arts-39633603)
+- [Jesus' name](https://en.wikipedia.org/wiki/Jesus_(name)):
+  - [Jesus' language](https://en.wikipedia.org/wiki/Language_of_Jesus)
+  - [Yeshua](https://forvo.com/word/yeshua/)
+  - [Yeshua to Jesus](http://www.judaismvschristianity.com/how_the_name.htm)
+  - The [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
+- Index investing
+  - [Buying One of Everything](https://allenpike.com/2014/buying-one-of-everything)
+  - [Why Warren Buffett recommends index investing](https://www.fool.com/retirement/warren-buffetts-super-simple-retirement-advice.aspx)
+  - [Canadian Couch Potato](https://canadiancouchpotato.com/)
+- [Woolly Mammoths and the pyramids](https://www.worldatlas.com/articles/did-woolly-mammoths-still-roam-parts-of-earth-when-the-great-pyramids-were-built.html)
