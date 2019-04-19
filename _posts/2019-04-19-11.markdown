@@ -1,0 +1,24 @@
+---
+layout: post
+author: allen
+date: "2019-04-19 12:00:00 -08:00"
+title: "More of a Facty Fact"
+topic: "Arik sells snake oil, Allen extols the virtues of rags, and things get very serious in rural North Dakota."
+duration: "00:54:19"
+length: 26128664
+link: https://pinecast.com/listen/db6a8700-cd31-48bb-9bf7-a7eccc2a4934.mp3
+summary: "Arik sells snake oil, Allen extols the virtues of rags, and things get very serious in rural North Dakota."
+explicit: "no"
+
+---
+ 
+Arik sells snake oil, Allen extols the virtues of rags, and things get very serious in rural North Dakota.
+
+- [Telsa Model Y](https://www.tesla.com/modely)
+- The BMW i3's [not-sealed frunk](https://www.mybmwi3.com/forum/viewtopic.php?t=4884)
+- [Rag paper](https://en.wikipedia.org/wiki/Cotton_paper)
+	- A Scientific American [article from 1869 on the rag paper process](https://www.scientificamerican.com/article/the-manufacture-of-paperpaper-made/)
+- Genuine [Snake oil](https://en.wikipedia.org/wiki/Snake_oil)
+- The [Canadian film rating system](https://en.wikipedia.org/wiki/Canadian_motion_picture_rating_system)
+	- Example of a "Restricted Cougar" trailer: [Bijou](https://www.youtube.com/watch?v=R2uKdK-aTf8)
+- [Rugby claims victory in center of North America trademark dispute](https://bismarcktribune.com/news/state-and-regional/rugby-claims-victory-in-center-of-north-america-trademark-dispute/article_ca8f8020-0b6c-5670-8f54-9e10f4fd8f87.html)

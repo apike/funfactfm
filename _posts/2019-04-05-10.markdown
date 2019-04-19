@@ -8,7 +8,7 @@ duration: "00:50:22"
 length: 24231919
 link: https://pinecast.com/listen/1c9b35e5-7825-4076-b1cb-610074feba0d.mp3
 summary: "Allen ruins koalas, Arik ruins guys, Canada ruins its airport codes, and WikiHow was already ruined when we got there."
-explicit: "yes"
+explicit: "no"
 
 ---
  
