@@ -1,0 +1,31 @@
+---
+layout: post
+author: allen
+date: "2019-05-03 12:00:00 -08:00"
+title: "A Poorly Rendered Plow"
+topic: "Arik punks pirates, Allen flogs flags, and we fail horribly at evolving infrared vision."
+duration: "00:57:40"
+length: 28909736
+link: https://pinecast.com/listen/2fc7d406-0eff-48cc-bdf2-5995cf01ff16.mp3
+summary: "Arik punks pirates, Allen flogs flags, and we fail horribly at evolving infrared vision."
+explicit: "no"
+
+---
+ 
+Arik punks pirates, Allen flogs flags, and we fail horribly at evolving infrared vision.
+
+- Pirates and [their eyepatches](https://en.wikipedia.org/wiki/Eyepatch#Pirates)
+    - According to [Quora](https://www.quora.com/Why-did-pirates-in-the-1700s-wear-eye-patches), [MythBusters](https://mythresults.com/episode71), and [The Fact Site](https://www.thefactsite.com/why-pirates-wore-eyepatches/)
+- The yearly [21 cannon salute](https://vancouversun.com/news/local-news/21-shots-ring-out-in-royal-city-in-memory-of-queen-victoria)
+	- The esteemed [City Flag of New Westminster](https://en.wikipedia.org/wiki/New_Westminster#/media/File:Flag_of_New_Westminster_BC.svg) and its own description of its [city symbols](https://www.newwestcity.ca/city_hall/media/city_symbols.php)
+	- [State Flag of Washington](https://en.wikipedia.org/wiki/Flag_of_Washington)
+	- CBC's Justin McElroy [ranks every BC municipal flag](https://twitter.com/j_mcelroy/status/1066885174112047104?lang=en) from worst to best
+	- The infamous [Liberia County Flags](https://www.flickr.com/photos/8724323@N06/sets/72157624331925379/)
+- Lexical Ambiguity
+	- [James while John had had had had had had had had had had had a better effect on the teacher.](https://en.wikipedia.org/wiki/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher)
+	- [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
+	- [Garden Path Sentences](https://en.wikipedia.org/wiki/Garden-path_sentence)
+- Reasons [we can't see infrared](https://physics.stackexchange.com/questions/209854/why-cant-we-see-infrared-light)
+- Previous fun facts
+	- [Fun Fact ep 1: Cheese Scheme](https://funfact.fm/episodes/1), wherein we discuss how to wash a broom.
+	- [Fun Fact ep 9: Evolutionarily Deprecated](https://funfact.fm/episodes/9), wherein we discuss how to MC an event.
