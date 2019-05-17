@@ -1,0 +1,28 @@
+---
+layout: post
+author: allen
+date: "2019-05-17 12:00:00 -08:00"
+title: "Unexpected Royalty Corner"
+topic: "Arik pitches an emperor, Allen pitches a Twitter feature, and we get some inside info on anvil-launching."
+duration: "00:59:37"
+length: 28672912
+link: https://pinecast.com/listen/f06bfa38-c634-4d4c-8cd6-59d00bbc6f4a.mp3
+summary: "Arik pitches an emperor, Allen pitches a Twitter feature, and we get some inside info on anvil-launching."
+explicit: "no"
+
+---
+ 
+Arik pitches an emperor, Allen pitches a Twitter feature, and we get some inside info on anvil-launching.
+
+- The [tweet to nowhere: private replies on Twitter](https://allenpike.com/2012/the-tweet-to-nowhere-private-replies)
+	- [Shadow banning](https://en.wikipedia.org/wiki/Shadow_banning)
+- [Norton the 1st, Emperor of United States, Protector of Mexico](https://en.wikipedia.org/wiki/Emperor_Norton)
+	- The [1820 Settlers](https://en.wikipedia.org/wiki/1820_Settlers)
+- [Vancouver housing sales tumble to 33-year low](https://www.theglobeandmail.com/real-estate/vancouver/article-vancouver-housing-sales-tumble-to-33-year-low/)
+	- [Metro Vancouver real estate prices are 65% overvalued: Economist](https://www.vancourier.com/real-estate/metro-vancouver-real-estate-prices-are-65-overvalued-economist-1.23401335)
+	- [Mortimer, troll of Vancouver Real Estate](https://twitter.com/mortimer_1)
+- The [Haskell Free Library and Opera House](https://en.wikipedia.org/wiki/Haskell_Free_Library_and_Opera_House)
+- [Goodbye, e-Golf](https://www.motor1.com/news/347808/vw-golf-standard-killed-us/)
+	- [VW I.D. Crozz](https://en.wikipedia.org/wiki/Volkswagen_I.D._Crozz)
+	- [The Honda E](https://autoweek.com/article/green-cars/honda-e-will-be-name-production-urban-ev-concept)
+- See the [Victoria Day Anvil Salute](https://www.newwestcity.ca/calendar-of-events/events/5528.php) on Monday, May 20
