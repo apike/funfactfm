@@ -6,7 +6,7 @@ title: "40 Cans of Fake Pea Mayo"
 topic: "Arik blows up Allen's calendar, Allen blows up the Impossible Burger, and science goes too far."
 duration: "00:59:04"
 length: 28719034
-link: https://pinecast.com/listen/f06bfa38-c634-4d4c-8cd6-59d00bbc6f4a.mp3
+link: https://pinecast.com/listen/f96687da-a6c8-44c1-bce9-66ba28893435.mp3
 summary: "Arik blows up Allen's calendar, Allen blows up the Impossible Burger, and science goes too far."
 explicit: "no"
 
