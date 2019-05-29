@@ -15,7 +15,7 @@ explicit: "no"
 Arik blows up Allen's calendar, Allen blows up the Impossible Burger, and science goes too far.
 
 - Cortex 85: [Grey's Non-Linear Life](https://www.relay.fm/cortex/85)
-- The surprisingly complex tale of the [Work weekand weekend](https://en.wikipedia.org/wiki/Workweek_and_weekend)
+- The surprisingly complex tale of the [work week and weekend](https://en.wikipedia.org/wiki/Workweek_and_weekend)
 - Bloomberg's [How Just Mayo Sold Silicon Valley](https://www.bloomberg.com/features/2016-hampton-creek-just-mayo/)
 - The scourge of highly dangerous [Dihydrogen Monoxide](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody) – it could attack at any time
 - Impossible Foods' [pitch on how GMO soy is more sustainable](https://medium.com/impossible-foods/how-our-commitment-to-consumers-and-our-planet-led-us-to-use-gm-soy-23f880c93408)
