@@ -1,0 +1,31 @@
+---
+layout: post
+author: allen
+date: "2019-06-13 12:00:00 -08:00"
+title: "Two Dumpster Fires"
+topic: "Water is wet, Teslas are trouble, and we delve into the wild world of rejected emoji."
+duration: "00:58:07"
+length: 27952968
+link: https://pinecast.com/listen/f5d95cd0-c043-4d4a-b01b-b57d1114a456.mp3
+summary: "Water is wet, Teslas are trouble, and we delve into the wild world of rejected emoji."
+explicit: "no"
+
+---
+
+Water is wet, Teslas are trouble, and we delve into the wild world of rejected emoji.
+
+- [Wikipedia: Wetting](https://en.wikipedia.org/wiki/Wetting)
+- [Surfactance](https://en.wikipedia.org/wiki/Surfactant), one of the two mechanisms that makes soap work. (Spoiler: it turns out there is a second, which we'll cover next episode.)
+- [Quora: Is water wet?](https://www.quora.com/Is-water-wet-1)
+- The [Slime 40051 Digital Tire Inflator (12-V)](https://www.amazon.com/dp/B074XHFN6Y/ref=cm_sw_r_cp_api_i_sXEaDbJKJHEPV)
+- The Emoji Consortium [Proposal Status list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTChOh3prKvohxG_MLA1PJHEdB65IpwCdQQ2WHxbwKhAWtKYc5Z_gk5fGK0Y0mZxfijjVzoSN5L2KEF/pubhtml?gid=1820515346&single=true)
+- [Australian Aboriginal Flag](https://en.wikipedia.org/wiki/Australian_Aboriginal_Flag)
+- [Fitzpatrick Scale](https://en.wikipedia.org/wiki/Fitzpatrick_scale)
+
+## Rejected emoji contest
+
+We would love to see you or your friends attempt to represent [any of the emoji](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTChOh3prKvohxG_MLA1PJHEdB65IpwCdQQ2WHxbwKhAWtKYc5Z_gk5fGK0Y0mZxfijjVzoSN5L2KEF/pubhtml?gid=1820515346&single=true) that the Emoji Consortium deems unrepresentable!
+
+If you want to see an emoji added for a critical human concept such as TICKLE, CLIMATE CHANGE, ALLERGY, OBJECT RELATED, WHAT EVEN IS THIS EMOJI, PROBABLY FACE, DUMPSTER FIRE, SAVING MONEY, DANGEROUS SUN, or HANGRY, then make your case! We'll take the best submission and attempt to get that emoji reconsidered – likely learning some further fun facts along the way.
+
+Send your drawing, illustration, or MS Paint sketch to [@funfactfm](https://www.twitter.com/funfactfm/) on Twitter or email us, [hello@funfact.fm](mailto:hello@funfact.fm).
