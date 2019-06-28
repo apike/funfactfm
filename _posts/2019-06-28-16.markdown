@@ -15,6 +15,10 @@ explicit: "no"
 A world tour of facts – from Virginia to the Bay Area, from Shakespearean England to Soap Followup City.
 
 - [20,000 Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
+- [You](https://en.wikipedia.org/wiki/You)
+	- [Thou](https://en.wikipedia.org/wiki/Thou)
+	- [T-V Distinction](https://en.wikipedia.org/wiki/T–V_distinction)
+	- [Grammatical Person](https://en.wikipedia.org/wiki/Grammatical_person)
 - The [Fastly Network Map](https://www.fastly.com/network-map)
     - The [Dulles Technology Corridor](https://en.wikipedia.org/wiki/Dulles_Technology_Corridor)
 - The Veritasium video on [making your hand not wettable](https://www.youtube.com/watch?v=GcdB5bFwio4&feature=youtu.be)
