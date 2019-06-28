@@ -1,0 +1,28 @@
+---
+layout: post
+author: allen
+date: "2019-06-28 12:00:00 -08:00"
+title: "Broken and Evil"
+topic: "A world tour of facts – from Virginia to the Bay Area, from Shakespearean England to Soap Followup City."
+duration: "00:53:17"
+length: 25630331
+link: https://pinecast.com/listen/2aeadd87-4114-4cf5-aec6-24bcf27207ee.mp3
+summary: "A world tour of facts – from Virginia to the Bay Area, from Shakespearean England to Soap Followup City."
+explicit: "no"
+
+---
+
+A world tour of facts – from Virginia to the Bay Area, from Shakespearean England to Soap Followup City.
+
+- [20,000 Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
+- The [Fastly Network Map](https://www.fastly.com/network-map)
+    - The [Dulles Technology Corridor](https://en.wikipedia.org/wiki/Dulles_Technology_Corridor)
+- The Veritasium video on [making your hand not wettable](https://www.youtube.com/watch?v=GcdB5bFwio4&feature=youtu.be)
+- Some [images from rejected emoji proposals](http://randomguy32.de/unicode/misc/rejected-emoji-proposals/)
+    - Lauren Florko’s [proposal for a climate change emoji](https://twitter.com/triplethreatCSR/status/1140658786736070657)
+
+## Rejected emoji contest
+
+We want nominates for the [best rejected emoji](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTChOh3prKvohxG_MLA1PJHEdB65IpwCdQQ2WHxbwKhAWtKYc5Z_gk5fGK0Y0mZxfijjVzoSN5L2KEF/pubhtml?gid=1820515346&single=true) that the Emoji Consortium has deemed unfit for our keyboards.
+
+Send your pitch, drawing, illustration, or MS Paint sketch to [@funfactfm](https://www.twitter.com/funfactfm/) on Twitter or email us, [hello@funfact.fm](mailto:hello@funfact.fm).
