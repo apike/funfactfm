@@ -6,7 +6,7 @@ title: "The Marshmallow Blob Market"
 topic: "Allen reviews the monarchy, we gain fluency in Pittsburghese, and Arik discovers TikTok."
 duration: "00:59:24"
 length: 28562848
-link: https://pinecast.com/listen/2aeadd87-4114-4cf5-aec6-24bcf27207ee.mp3
+link: https://pinecast.com/listen/c10b53b2-8f75-4d13-ac85-9f4edda2e4b2.mp3
 summary: "Allen reviews the monarchy, we gain fluency in Pittsburghese, and Arik discovers TikTok."
 explicit: "no"
 
