@@ -1,0 +1,24 @@
+---
+layout: post
+author: allen
+date: "2019-07-26 12:00:00 -08:00"
+title: "Probably A Scheme"
+topic: "Arik celebrates a fictional rep, Allen reps an architectural ploy, and we follow a dead metaphor around the world."
+duration: "00:51:10"
+length: 25405772
+link: https://pinecast.com/listen/a3885e76-b9a5-45cd-a6af-388135d1a1de.mp3
+summary: "Arik celebrates a fictional rep, Allen reps an architectural ploy, and we follow a dead metaphor around the world."
+explicit: "no"
+
+---
+
+Arik celebrates a fictional rep, Allen reps an architectural ploy, and we follow a dead metaphor around the world.
+
+- [Jakob Maria Mierscheid](https://en.m.wikipedia.org/wiki/Jakob_Maria_Mierscheid)
+    - [@jakobmierscheid](https://twitter.com/jakobmierscheid)
+- [432 Park Avenue](https://en.wikipedia.org/wiki/432_Park_Avenue)
+    - 432’s [land assembly method](https://www.skyscraper.org/EXHIBITIONS/SKY_HIGH/shearwall_invmonopoly.php)
+    - [The closing of the loophole](https://www.nytimes.com/2019/04/20/nyregion/tallest-buildings-manhattan-loophole.html)
+- ["Greek to me"](https://en.wikipedia.org/wiki/Greek_to_me)
+    - [@limi’s challenge](https://twitter.com/limi/status/1150204091215171584?s=20) on Twitter 
+    - [Dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor)
