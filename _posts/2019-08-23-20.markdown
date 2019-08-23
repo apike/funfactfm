@@ -1,0 +1,27 @@
+---
+layout: post
+author: allen
+date: "2019-08-23 12:00:00 -08:00"
+title: "Lil Nas 10"
+topic: "Allen warns of impending doom, Arik spreads socialist propaganda, and we ride 'til we can't no more."
+duration: "00:49:28"
+length: 35671982
+link: https://pinecast.com/listen/0a81e211-ea56-447a-8927-a53a0f2b1775.mp3
+summary: "Allen warns of impending doom, Arik spreads socialist propaganda, and we ride 'til we can't no more."
+explicit: "no"
+
+---
+
+Allen warns of impending doom, Arik spreads socialist propaganda, and we ride 'til we can't no more.
+
+- The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
+	- The [NULL vanity plate](https://onefoottsunami.com/2019/08/14/the-backfiring-vanity-plate/)
+- [The Landlord's Game](https://en.wikipedia.org/wiki/The_Landlord%27s_Game)
+	- Economist [Henry George](https://en.wikipedia.org/wiki/Henry_George)
+	- [Monopoly is Theft](https://harpers.org/blog/2012/10/monopoly-is-theft/)
+	- [1906 Monopoly Rules](http://landlordsgame.info/games/lg-1906/lg-1906_egc-rules.html)
+	- [Power Grid on BoardGameGeek](https://boardgamegeek.com/boardgame/2651/power-grid) 
+- [How TikTok Made "Old Town Road" Become Both A Meme And A Banger](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-lil-nas-x-old-town-road)
+- [@emojimashupbot](https://twitter.com/emojimashupbot)
+- [Cochin’s italic ampersand](https://twitter.com/SageOlson/status/1161059183594074112)
+- [@Aleen’s version of Little Red Corvette](https://twitter.com/Aleen/status/1159901759864578048)
