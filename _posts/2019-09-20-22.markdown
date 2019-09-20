@@ -6,7 +6,7 @@ title: "Ready for a New Banana"
 topic: "Ô Canada is bananas, scientific progress used to be bananas, and the farming of bananas is itself bananas."
 duration: "00:57:46"
 length: 41643502
-link: https://pinecast.com/listen/e5d0934c-8c1d-4ccf-b3bc-c2d032f85af1.mp3
+link: https://pinecast.com/listen/c275f989-e752-43d3-a52a-d17bd6d94718.mp3
 summary: "Ô Canada is bananas, scientific progress used to be bananas, and the farming of bananas is itself bananas."
 explicit: "no"
 
