@@ -1,0 +1,23 @@
+---
+layout: post
+author: allen
+date: "2019-09-20 12:00:00 -08:00"
+title: "Ready for a New Banana"
+topic: "Ô Canada is bananas, scientific progress used to be bananas, and the farming of bananas is itself bananas."
+duration: "00:57:46"
+length: 41643502
+link: https://pinecast.com/listen/c275f989-e752-43d3-a52a-d17bd6d94718.mp3
+summary: "Ô Canada is bananas, scientific progress used to be bananas, and the farming of bananas is itself bananas."
+explicit: "no"
+
+---
+
+Ô Canada is bananas, scientific progress used to be bananas, and the farming of bananas is itself bananas.
+
+- [O Canada in English and French](https://en.wikipedia.org/wiki/O_Canada#Lyrics)
+- [Banana fungus arrives in Colombia](https://www.nationalgeographic.com/environment/2019/08/banana-fungus-latin-america-threatening-future/)
+  - [Yes, We Have No Bananas](https://www.youtube.com/watch?v=ispyUzpJlWU)
+  - [McCormicks Marshmallow Bananas](https://candyfunhouse.ca/products/mccormicks-marshmallow-bananas)
+- [Patrick Collison on EconTalk](http://www.econtalk.org/patrick-collison-on-innovation-and-scientific-progress/), on the pace of science
+- The [accidental creation of YInMn Blue](https://www.npr.org/2016/07/16/485696248/a-chemist-accidentally-creates-a-new-blue-then-what)
+- The One True Lens, [the F1.8 normal prime](https://www.sony.ca/en/electronics/camera-lenses/sel35f18)
