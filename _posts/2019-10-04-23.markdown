@@ -1,0 +1,24 @@
+---
+layout: post
+author: allen
+date: "2019-10-04 12:00:00 -08:00"
+title: "What Is a Computer?"
+topic: "Allen takes on Microsoft, Casey Liss takes on West Virginia, the Red Cross takes five, and we all take a journey to a mid-90s Toys “R” Us."
+duration: "00:56:16"
+length: 40569800
+link: https://pinecast.com/listen/1b94a3ef-b99c-4018-8f81-e2deded55bd8.mp3
+summary: "Allen takes on Microsoft, Casey Liss takes on West Virginia, the Red Cross takes five, and we all take a journey to a mid-90s Toys “R” Us."
+explicit: "no"
+
+---
+
+Allen takes on Microsoft, Casey Liss takes on West Virginia, the Red Cross takes five, and we all take a journey to a mid-90s Toys “R” Us.
+
+- [Microsoft Software Asset Management](https://www.microsoft.com/en-us/sam), a set of proven IT practices that unite people, processes, and technology to control and optimize the use of software across an organization
+- The [United States National Radio Quiet Zone](https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone)
+  - [The US Town With No Cell Phones](https://www.youtube.com/watch?v=iTVLJeRQS5c)
+- The [wildly diverging price of stuff](http://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POU3KPGVAE2QRDBXHOHBDKIGCA.jpg)
+- [96 Crayola crayons on Amazon.ca](https://www.amazon.ca/dp/B00007JQQP/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B00007JQQP&pd_rd_w=CpGTl&pf_rd_p=4b7c8c1c-293f-4b1e-a49a-8787dff31bcb&pd_rd_wg=4N6uK&pf_rd_r=1NJ82S614W0G8DGV8MWH&pd_rd_r=483785c2-d1c5-4557-b775-46ac2bc4c89a&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExN0tPSzQ5NEszM1c4JmVuY3J5cHRlZElkPUEwNzczNDU5MTA3Q0dKRVRaUUtUTSZlbmNyeXB0ZWRBZElkPUEwNjc4ODczSzdNTExZTTBRUEozJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+- A [1993 Toys "R" Us catalog](https://www.retrojunk.com/article/show/4546/1993-toys-r-us-catalog)
+- Link to Fun Fact 17, [The Marshmallow Blob Market](https://funfact.fm/episodes/17), where we discuss the monarchy
+- [Take Five](https://www.youtube.com/watch?v=vmDDOFXSgAs)
