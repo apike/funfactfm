@@ -6,7 +6,7 @@ title: "A New Flavour Technology"
 topic: "Allen sells Italy on tomatoes, Tiff Arment sells Allen on antique glassware, Starbucks sells us a scheme, and we decide to order oatmeal from Walmart."
 duration: "00:52:12"
 length: 38259620
-link: https://pinecast.com/listen/1b94a3ef-b99c-4018-8f81-e2deded55bd8.mp3
+link: https://pinecast.com/listen/60e61329-6e2e-412c-b5d3-77798fa9dade.mp3
 summary: "Allen sells Italy on tomatoes, Tiff Arment sells Allen on antique glassware, Starbucks sells us a scheme, and we decide to order oatmeal from Walmart."
 explicit: "no"
 
