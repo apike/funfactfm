@@ -1,0 +1,28 @@
+---
+layout: post
+author: allen
+date: "2019-11-15 12:00:00 -08:00"
+title: "Top Two Assassinations"
+topic: "Arik closes the loop on questionable presidents, and Allen goes deep on questionable airplanes."
+duration: "00:49:33"
+length: 36881070
+link: https://pinecast.com/listen/7269c9bc-8006-4390-b2ba-38cdc604d531.mp3
+summary: "Arik closes the loop on questionable presidents, and Allen goes deep on questionable airplanes."
+explicit: "no"
+
+---
+
+Arik closes the loop on questionable presidents, and Allen goes deep on questionable airplanes.
+
+- [Chester A. Arthur](https://en.wikipedia.org/wiki/Chester_A._Arthur)
+  - [Julia Sand and Chester A. Arthur](https://www.nytimes.com/2018/08/08/obituaries/julia-sand-chester-a-arthur-overlooked.html)
+  - [The Redemption of Chester A. Arthur](https://www.washingtonpost.com/news/on-leadership/wp/2016/05/29/the-redemption-of-president-chester-a-arthur/)
+- The [Boeing B-52 Stratofortress](https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress)
+  - The [B-52s](https://en.wikipedia.org/wiki/The_B-52%27s)
+- The [Convair B-36 Peacemaker](https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker)
+- [1876 US presidential election](https://en.wikipedia.org/wiki/1876_United_States_presidential_election)
+  - [The Compromise of 1877](https://en.wikipedia.org/wiki/Compromise_of_1877)
+  - [Losing the popular vote](https://en.wikipedia.org/wiki/United_States_presidential_elections_in_which_the_winner_lost_the_popular_vote)
+  - [Disenfranchisement after the Reconstruction Era](https://en.wikipedia.org/wiki/Disenfranchisement_after_the_Reconstruction_Era)
+- The [Nuclear B-36](https://en.wikipedia.org/wiki/Convair_NB-36H)
+- The [McDonnell XF-85_Goblin](https://en.wikipedia.org/wiki/McDonnell_XF-85_Goblin)
