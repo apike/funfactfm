@@ -2,7 +2,7 @@
 layout: post
 author: allen
 date: "2019-11-29 12:00:00 -08:00"
-title: "18 Wheels of Thunder"
+title: "Eighteen Wheels of Thunder"
 topic: "Allen races big rigs, Tron cheats, the Japanese navy gets cooking, and Arik goes on a word-origin journey through the looking glass."
 duration: "00:46:08"
 length: 33277754
