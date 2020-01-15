@@ -1,0 +1,20 @@
+---
+layout: post
+author: allen
+date: "2020-01-15 12:00:00 -08:00"
+title: "This Is Not Health Advice"
+topic: "A baby is foretold, Arik explains why we like umami, Allen goes super deep into cold meds (while on cold meds), and we gain some new emoji shortcuts."
+duration: "00:52:56"
+length: 38163065
+link: https://pinecast.com/listen/d64bb853-8e2d-42df-866d-ca90e265b47b.mp3
+summary: "A baby is foretold, Arik explains why we like umami, Allen goes super deep into cold meds (while on cold meds), and we gain some new emoji shortcuts."
+explicit: "no"
+
+---
+
+A baby is foretold, Arik explains why we like umami, Allen goes super deep into cold meds (while on cold meds), and we gain some new emoji shortcuts.
+
+- [Umami](https://en.wikipedia.org/wiki/Umami)
+  - [Worcestershire sauce](https://en.wikipedia.org/wiki/Worcestershire_sauce)
+- Allen's [Guide to the Cold Med Industrial Complex](https://allenpike.com/2019/guide-to-cold-med-complex)
+- Casey Liss' [Levelled Up Emoji](https://www.caseyliss.com/2014/9/23/leveled-up-emoji)
