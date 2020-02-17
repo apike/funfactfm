@@ -1,0 +1,23 @@
+---
+layout: post
+author: allen
+date: "2020-02-16 12:00:00 -08:00"
+title: "Is Mustard a Mustard"
+topic: "Allen prepares for a newborn, brussels sprouts improve, your privacy is Borked, and narwhals surprise Arik."
+duration: "00:41:04"
+length: 29622404
+link: https://pinecast.com/listen/3f80124c-d62d-4501-9bbd-3ad67abb1aa8.mp3
+summary: "Allen prepares for a newborn, brussels sprouts improve, your privacy is Borked, and narwhals surprise Arik."
+explicit: "no"
+
+---
+
+Allen prepares for a newborn, brussels sprouts improve, your privacy is Borked, and narwhals surprise Arik.
+
+- The [Brussels Sprout Revolution](https://www.npr.org/sections/thesalt/2019/10/30/773457637/from-culinary-dud-to-stud-how-dutch-plant-breeders-built-our-brussels-sprouts-bo)
+- The [Video Privacy Protection Act](https://en.wikipedia.org/wiki/Video_Privacy_Protection_Act)
+  - [Robert Bork](https://en.wikipedia.org/wiki/Robert_Bork)
+- [Triple Divide Peak](https://en.wikipedia.org/wiki/Triple_Divide_Peak_(Montana))
+  - The hydrology map: [Drainage baisins in North America]()https://en.wikipedia.org/wiki/Triple_Divide_Peak_(Montana)#/media/File:NorthAmerica-WaterDivides.png
+- [Tweet at us](http://twitter.com/funfactfm) with #ahashtag
+- [Deep Sea](https://neal.fun/deep-sea/) demo
