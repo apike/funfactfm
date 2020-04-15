@@ -3,16 +3,16 @@ layout: post
 author: apike
 date: "2020-04-15 12:00:00 -08:00"
 title: "Thanks for Dominating Us"
-topic: "Allen makes a hat, Arik visits medeival europe, Allen takes issue with Big Bread, and we offend the populace of Labrador."
+topic: "Allen makes a hat, Arik visits medieval europe, Allen takes issue with Big Bread, and we offend the populace of Labrador."
 duration: "00:55:32"
 length: 40035475
 link: https://pinecast.com/listen/6fb4ceec-c692-4cd6-9e3b-bd8b9922a1ca.mp3
-summary: "Allen makes a hat, Arik visits medeival europe, Allen takes issue with Big Bread, and we offend the populace of Labrador."
+summary: "Allen makes a hat, Arik visits medieval europe, Allen takes issue with Big Bread, and we offend the populace of Labrador."
 explicit: "no"
 
 ---
 
-Allen makes a hat, Arik visits medeival europe, Allen takes issue with Big Bread, and we offend the populace of Labrador.
+Allen makes a hat, Arik visits medieval europe, Allen takes issue with Big Bread, and we offend the populace of Labrador.
 
 - [Bilirubin](https://en.wikipedia.org/wiki/Bilirubin)
   - [Hemolytic disease of the newborn](https://en.wikipedia.org/wiki/Hemolytic_disease_of_the_newborn)
