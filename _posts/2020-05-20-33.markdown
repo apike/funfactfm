@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2020-05-20 12:00:00 -08:00"
+title: "Quakers & Quasars"
+topic: "Video calls are a problem, the universe is mind-boggling, a preacher defies expectations, and we receive formal titles."
+duration: "01:01:10"
+length: 44099587
+link: https://pinecast.com/listen/4c19e3b6-4b59-4a74-804d-154e9cc8e6eb.mp3
+summary: "Video calls are a problem, the universe is mind-boggling, a preacher defies expectations, and we receive formal titles."
+explicit: "no"
+
+---
+
+Video calls are a problem, the universe is mind-boggling, a preacher defies expectations, and we receive formal titles.
+
+- [Quasars](https://en.wikipedia.org/wiki/Quasar)
+  - A [totally badass rendering of a quasar](https://upload.wikimedia.org/wikipedia/commons/3/38/Artist%27s_rendering_ULAS_J1120%2B0641.jpg)
+- [How New Westminster Lost the Capital](https://canspice.org/2015/08/18/how-new-westminster-lost-the-capital/])
+  - [Fun Fact 13, featuring the Victoria Day celebration in New Westminster](https://funfact.fm/episodes/13)
+- [The Public Universal Friend](https://en.wikipedia.org/wiki/Public_Universal_Friend)
+- How Point Roberts [is the safest place](https://www.theguardian.com/us-news/2020/apr/16/coronavirus-point-roberts-geography)
+- [List of courtesy titles in the peerages of Britain and Ireland](https://en.wikipedia.org/wiki/List_of_courtesy_titles_in_the_peerages_of_Britain_and_Ireland)
