@@ -2,7 +2,7 @@
 layout: post
 author: apike
 date: "2020-05-20 12:00:00 -08:00"
-title: "Quakers & Quasars"
+title: "Quakers &amp; Quasars"
 topic: "Video calls are a problem, the universe is mind-boggling, a preacher defies expectations, and we receive formal titles."
 duration: "01:01:10"
 length: 44099587
