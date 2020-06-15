@@ -1,0 +1,21 @@
+---
+layout: post
+author: apike
+date: "2020-06-14 12:00:00 -08:00"
+title: "Not All Fun Facts Are Fun"
+topic: "Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter."
+duration: "00:51:04"
+link: https://pinecast.com/listen/954e5f98-e108-4995-bf88-b636a9f8bb3b.mp3
+summary: "Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter."
+explicit: "no"
+
+---
+
+Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter.
+
+- [White people](https://en.wikipedia.org/wiki/White_people)
+- [Emoji skin tone modifiers](https://emojipedia.org/emoji-modifier-sequence/)
+ - [White People Don't Use White Emoji](https://www.theatlantic.com/politics/archive/2016/05/white-people-dont-use-white-emoji/481695/)
+ - [The Problem with Skin Tone Emoji](https://www.dailydot.com/irl/skin-tone-emoji/)
+ - [Code Switch: White skin, black emoji](https://www.npr.org/sections/codeswitch/2018/03/21/425573955/white-skin-black-emojis)
+- [Black Lives Matter](https://en.wikipedia.org/wiki/Black_Lives_Matter)
