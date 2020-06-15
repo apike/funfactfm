@@ -14,6 +14,8 @@ explicit: "no"
 Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter.
 
 - [White people](https://en.wikipedia.org/wiki/White_people)
+- [Scientific racism](https://en.wikipedia.org/wiki/Scientific_racism)
+- [Definitions of whiteness in the United States](https://en.wikipedia.org/wiki/Definitions_of_whiteness_in_the_United_States)
 - [Emoji skin tone modifiers](https://emojipedia.org/emoji-modifier-sequence/)
  - [White People Don't Use White Emoji](https://www.theatlantic.com/politics/archive/2016/05/white-people-dont-use-white-emoji/481695/)
  - [The Problem with Skin Tone Emoji](https://www.dailydot.com/irl/skin-tone-emoji/)
