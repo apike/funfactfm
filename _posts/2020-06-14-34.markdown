@@ -5,6 +5,7 @@ date: "2020-06-14 12:00:00 -08:00"
 title: "Not All Fun Facts Are Fun"
 topic: "Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter."
 duration: "00:51:04"
+length: 36815955
 link: https://pinecast.com/listen/954e5f98-e108-4995-bf88-b636a9f8bb3b.mp3
 summary: "Whiteness is a construct, emoji are problematic, history is racist, and Black and indigenous lives matter."
 explicit: "no"
