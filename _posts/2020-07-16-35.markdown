@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2020-07-16 12:00:00 -08:00"
+title: "Pick Your Danger"
+topic: "Astronauts make stuff to breathe, Europeans plunder stuff to sell, Australians and New Zealanders have a cute animal showdown."
+duration: "00:51:05"
+length: 37166011
+link: https://pinecast.com/listen/ee6b0af6-9acf-46c9-b04a-37920b71293c.mp3
+summary: "Astronauts make stuff to breathe, Europeans plunder stuff to sell, Australians and New Zealanders have a cute animal showdown."
+explicit: "no"
+
+---
+
+Astronauts make stuff to breathe, Europeans plunder stuff to sell, Australians and New Zealanders have a cute animal showdown.
+
+- [The ISS Life Support Cycle](https://en.wikipedia.org/wiki/File:SpaceStationCycle.svg)
+- [A kiwi and a platypus](https://funfact.fm/images/platypus-kiwi.jpg)
+- [The X from Outer Space](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-vkCyZX_2Dkw%2FWBmCgtI66EI%2FAAAAAAAAZLA%2FPIWW1AX5cVA8VwHz4VyfHtzJEnlkF_JUQCLcB%2Fs1600%2Fx_from_outer_space_glc_01.jpg&f=1&nofb=1)
