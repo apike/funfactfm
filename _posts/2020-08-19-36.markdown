@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2020-08-19 12:00:00 -08:00"
+title: "Joey Two-Lies"
+topic: "Allen attempts to pitch a miniseries, Arik attempts to explain calendars, and a Spaniard attempts to become a spy."
+duration: "00:56:16"
+length: 40560785
+link: https://pinecast.com/listen/4773d95d-d172-4d6f-b22b-9b013c1ec91b.mp3
+summary: "Allen attempts to pitch a miniseries, Arik attempts to explain calendars, and a Spaniard attempts to become a spy."
+explicit: "yes"
+
+---
+
+Allen attempts to pitch a miniseries, Arik attempts to explain calendars, and a Spaniard attempts to become a spy.
+
+- [Historicity of Jesus](https://en.wikipedia.org/wiki/Historicity_of_Jesus)
+- [Juan Pujol García](https://en.wikipedia.org/wiki/Juan_Pujol_Garc%C3%ADa)
+- The [Ultra programme](https://en.wikipedia.org/wiki/Ultra)
+- The [Ethiopian calendar](https://en.wikipedia.org/wiki/Ethiopian_calendar)
+  - The current [year in various calendars](https://en.wikipedia.org/wiki/Template:Year_in_various_calendars)
+  - [Chinese calendar numbering](https://en.wikipedia.org/wiki/Chinese_calendar#Year-numbering_systems)
+  - [Why the Ethiopian calendar is behind](https://theculturetrip.com/africa/ethiopia/articles/why-is-the-ethiopian-calendar-7-years-behind/)
+  - [Adoption of the Gregorian calendar](https://en.wikipedia.org/wiki/Adoption_of_the_Gregorian_calendar)
+- [The Illuminatus! Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)
