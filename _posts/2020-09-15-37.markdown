@@ -6,7 +6,7 @@ title: "Two Gun to Yuma"
 topic: "Allen revisits big felines, Arik catalogues well-armed historical figures, and Allen cares way too much about electric trunks."
 duration: "01:09:50"
 length: 50339706
-link: https://pinecast.com/listen/4773d95d-d172-4d6f-b22b-9b013c1ec91b.mp3
+link: https://pinecast.com/listen/cbe83504-a091-470a-9fee-39403c5f6386.mp3
 summary: "Allen revisits big felines, Arik catalogues well-armed historical figures, and Allen cares way too much about electric trunks."
 explicit: "no"
 
