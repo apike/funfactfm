@@ -1,0 +1,29 @@
+---
+layout: post
+author: apike
+date: "2020-10-15 12:00:00 -08:00"
+title: "Hat-Savvy Area"
+topic: "Allen surveys a straw hat snarl, Arik examines the electoral college's errors, and we finish with some feline followup."
+duration: "00:45:41"
+length: 32944963
+link: https://pinecast.com/listen/a07c610a-35a7-49cf-a7d6-51eca3090ed8.mp3
+summary: "Allen surveys a straw hat snarl, Arik examines the electoral college's errors, and we finish with some feline followup."
+explicit: "no"
+
+---
+
+Allen surveys a straw hat snarl, Arik examines the electoral college's errors, and we finish with some feline followup.
+
+- The [Straw Hat Riot](https://en.wikipedia.org/wiki/Straw_Hat_Riot)
+  - The [etiquette of straw cowboy hats](https://bernardhats.com/all-about-hats/cowboy-hat-etiquette/)
+  - [City has Wild Night of Straw Hat Riots](https://www.nytimes.com/1922/09/16/archives/city-has-wild-night-of-straw-hat-riots-gangs-of-young-hoodlums-with.html), New York Times
+- The [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College)
+  - The [Appointment of 2020 Electors](http://www.thegreenpapers.com/G20/EC-Appointed.phtml)
+  - [Why Was the Electoral College Created?](https://www.history.com/news/electoral-college-founding-fathers-constitutional-convention)
+  - The [12th Amendment](https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution)
+  - [Can the President and VP be from the same state?](https://www.history.com/news/can-the-president-and-vice-president-be-from-the-same-state)
+  - The [Three Fifths Compromise](https://en.wikipedia.org/wiki/Three-Fifths_Compromise)
+  - The [Connecticut Compromise](https://en.wikipedia.org/wiki/Connecticut_Compromise)
+  - [Seventeenth Amendment](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution)
+- CGP Grey's [The Trouble with the Electoral College](https://www.youtube.com/watch?v=7wC42HgLA4k), and [The Sneaky Plan to Subvert the Electoral College](https://www.youtube.com/watch?v=tUX-frlNBJY)
+- The [Florida panther](https://en.wikipedia.org/wiki/Florida_panther), a distinctly not-black panther
