@@ -1,0 +1,24 @@
+---
+layout: post
+author: apike
+date: "2020-11-18 12:00:00 -08:00"
+title: "Placebo Juice"
+topic: "Cough medicine is a surprisingly bad idea, mundane terms have surprising origins, and medeival monks get surprisingly saucy."
+duration: "00:54:52"
+length: 39552401
+link: https://pinecast.com/listen/93f44a01-7b29-4504-83b7-ad34cb7f043c.mp3
+summary: "Cough medicine is a surprisingly bad idea, mundane terms have surprising origins, and medeival monks get surprisingly saucy."
+explicit: "no"
+
+---
+
+Cough medicine is a surprisingly bad idea, mundane terms have surprising origins, and medeival monks get surprisingly saucy.
+
+- [Knights vs. Snails](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
+  - [The Snail in Gothic Marginal Warfare](https://www.jstor.org/stable/2852357?seq=1)
+  - [A defecating monk is chastised by a naked cleric](https://britishlibrary.typepad.co.uk/.a/6a00d8341c464853ef017c325254d7970b-500wi)
+- Knights & Snails app
+- List of eponyms
+- General Burnside
+- Epic rap battles of history
+- [Globe and Mail on why we have no small EVs](https://www.theglobeandmail.com/drive/mobility/article-why-cant-we-get-small-evs-like-the-honda-e-or-the-vw-id3-here/)
