@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2020-12-15 12:00:00 -08:00"
+title: "Ye Olde Pub"
+topic: "Allen discovers woods, Arik transports us back to the olde tymes, and we do not start a Patreon."
+duration: "00:49:24"
+length: 35628217
+link: https://pinecast.com/listen/d8356b6b-8f65-4f4e-acba-e510bd8e484e.mp3
+summary: "Allen discovers woods, Arik transports us back to the olde tymes, and we do not start a Patreon."
+explicit: "no"
+
+---
+
+Allen discovers woods, Arik transports us back to the olde tymes, and we do not start a Patreon.
+
+- [Hardwoods vs. softwoods](https://science.howstuffworks.com/life/genetic/question598.htm)
+  - The [Canada-US softwood lumber dispute](https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_softwood_lumber_dispute)
+https://www.youtube.com/watch?v=ROIK9_zh5Ts
+  - The [Canada-US border dispute](https://www.youtube.com/watch?v=ROIK9_zh5Ts) video
+- [English orthography](https://en.wikipedia.org/wiki/English_orthography)
+- The [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
+- The [podcast series on the Great Vowel Shift](https://historyofenglishpodcast.com/2020/09/24/episode-141-the-great-vowel-shift-part-1/)
