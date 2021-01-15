@@ -3,11 +3,11 @@ layout: post
 author: apike
 date: "2021-01-15 12:00:00 -08:00"
 title: "Banana Split Bonanza"
-topic: "Arik takes a second look at "ye", Allen investigates a Sonic-related coverup, and we review an accent that doesn't exist. Afterwards: hypocrisy and synergy."
+topic: "Arik takes a second look at ye, Allen investigates a Sonic-related coverup, and we review an accent that doesn't exist. Afterwards: hypocrisy and synergy."
 duration: "00:57:59"
 length: 41798258
 link: https://pinecast.com/listen/22461ee2-2354-498a-9cda-0ea6fd0a7544.mp3
-summary: "Arik takes a second look at "ye", Allen investigates a Sonic-related coverup, and we review an accent that doesn't exist. Afterwards: hypocrisy and synergy."
+summary: "Arik takes a second look at ye, Allen investigates a Sonic-related coverup, and we review an accent that doesn't exist. Afterwards: hypocrisy and synergy."
 explicit: "no"
 
 ---
