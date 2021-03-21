@@ -1,0 +1,21 @@
+---
+layout: post
+author: apike
+date: "2021-03-20 12:00:00 -08:00"
+title: "Worse than a Cube"
+topic: "Arik reviews the Autobahn, Allen discusses drag, Arik informs us how to get into the NBA, and ye get some followup."
+duration: "00:48:43"
+length: 23432847
+link: https://pinecast.com/listen/0cb38e36-6e9c-4d93-8429-8057ddac10d6.mp3
+summary: "Arik reviews the Autobahn, Allen discusses drag, Arik informs us how to get into the NBA, and ye get some followup."
+explicit: "no"
+
+---
+
+Arik reviews the Autobahn, Allen discusses drag, Arik informs us how to get into the NBA, and ye get some followup.
+
+- [Autobahn](https://en.wikipedia.org/wiki/Autobahn)
+- Sweden's [Vision Zero](https://en.wikipedia.org/wiki/Vision_Zero)
+- [Drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient)
+- [F1 Drive to Survive](https://en.wikipedia.org/wiki/Formula_1:_Drive_to_Survive)
+- [What Percentage of 7 Footers are in the NBA?](https://marginalrevolution.com/marginalrevolution/2012/05/what-percentage-of-7-footers-are-in-the-nba.html)
