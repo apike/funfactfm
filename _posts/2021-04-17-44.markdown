@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2021-04-17 12:00:00 -08:00"
+title: "Rolled Vetch"
+topic: "Allen tells a story of accidental evolution, Arik reassures 1930s New York, Allen accidentally learns about pearling, and Arik explains how the sun heats things."
+duration: "00:47:08"
+length: 22674498
+link: https://pinecast.com/listen/59f6b5c9-4055-4b8a-aaa4-5bb6f29badb8.mp3
+summary: "Allen tells a story of accidental evolution, Arik reassures 1930s New York, Allen accidentally learns about pearling, and Arik explains how the sun heats things."
+explicit: "no"
+
+---
+
+Allen tells a story of accidental evolution, Arik reassures 1930s New York, Allen accidentally learns about pearling, and Arik explains how the sun heats things.
+
+- The [July 1930 issue of The New Yorker](https://newyorkerstateofmind.com/2019/07/05/a-happy-fourth/)
+- The [Chrysler Building](https://en.wikipedia.org/wiki/Chrysler_Building)
+- [Bedrock and Midtown](https://buildingtheskyline.org/bedrock-and-midtown-i/)
+- [Vavilovian mimicry](https://en.wikipedia.org/wiki/Vavilovian_mimicry)
+- [Why it's colder on a mountain](https://www.sciencefocus.com/planet-earth/why-is-it-colder-at-the-top-of-a-mountain-if-youre-closer-to-the-sun/)
+- [Prolate spheroids](https://en.wikipedia.org/wiki/Spheroid)
+- Pearling, **not** the wikipedia page about body modification, but rather [a very nice page from Bob’s Red Mill](https://www.bobsredmill.com/blog/healthy-living/what-the-hull-does-pearled-mean/)
