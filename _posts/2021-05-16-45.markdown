@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2021-05-16 12:00:00 -08:00"
+title: "Tilty Rotunda"
+topic: "Arik is whelmed, Allen highlights some classic cars, and centuries of engineers almost whelm a classic."
+duration: "00:40:12"
+length: 19347496
+link: https://pinecast.com/listen/062ad53b-da1d-4da8-9f5c-4dc15b2aaaa0.mp3
+summary: "Arik is whelmed, Allen highlights some classic cars, and centuries of engineers almost whelm a classic."
+explicit: "no"
+
+---
+
+Arik is whelmed, Allen highlights some classic cars, and centuries of engineers almost whelm a classic.
+
+- [The History of English ep 145](https://historyofenglishpodcast.com/2021/02/18/episode-145-a-sea-change-for-europe/)
+- [Whelmed](https://www.youtube.com/watch?v=RhUJe3vkLIs)
+- [Classic car rules by state](https://www.hagerty.com/media/archived/how-classic-car-friendly-is-your-state/)
+  - The [1997 Toyota Prius](https://classics.honestjohn.co.uk/news/comment/2019-07/future-classic-friday-toyota-prius/)
+  - The 2007 CRV’s [weird back window](https://www.caranddriver.com/photos/g18081181/2007-honda-cr-v-1-gallery/?slide=1)
+  - The Concept Car-like [Ioniq 5](https://www.caranddriver.com/hyundai/ioniq-5)
+- [The Leaning Tower of Pisa](https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa)
+  - [Italian government asks for suggestions for how to fix Leaning Tower of Pisa
+](https://www.history.com/this-day-in-history/leaning-tower-needs-help)
