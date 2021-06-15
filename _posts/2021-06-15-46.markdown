@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2021-06-15 12:00:00 -08:00"
+title: "To Milk a Pig"
+topic: "Allen teaches Arik how to land a plane, Arik recaps the legal battle of the century, and we consider some alternative milk."
+duration: "00:35:40"
+length: 17174561
+link: https://pinecast.com/listen/a9e28bf2-ec89-4cb2-88a7-781663a595d7.mp3
+summary: "Allen teaches Arik how to land a plane, Arik recaps the legal battle of the century, and we consider some alternative milk."
+explicit: "no"
+
+---
+
+Allen teaches Arik how to land a plane, Arik recaps the legal battle of the century, and we consider some alternative milk.
+
+- [Runway numbering](https://www.stantec.com/en/ideas/airport-runways-what-do-those-big-numbers-mean)
+  - [SFO runway map](https://acukwik.com/extimages/Listing-Images/KSFO.jpg)
+- [Iceland is suing Iceland](https://www.independent.ie/world-news/europe/iceland-the-country-is-suing-iceland-the-supermarket-35244425.html)
+  - [Iceland (supermarket) - Wikipedia](https://en.wikipedia.org/wiki/Iceland_%28supermarket%29)
+- The [All Consuming](https://allconsuming.show/) show
+- [Pig milk](https://en.wikipedia.org/wiki/Pig_milk)
+  - [Pule cheese](https://en.wikipedia.org/wiki/Pule_cheese)
+  - [Why don’t we drink other animals’ milk?](https://slate.com/human-interest/2012/07/why-dont-we-drink-other-animals-milk-the-dairy-of-camels-buffalo-pigs-sheep-and-goats.html)
+- The [Impossible Burger episode](https://funfact.fm/episodes/14) of Fun Fact
