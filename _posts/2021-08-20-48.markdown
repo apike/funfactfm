@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2021-08-20 12:00:00 -08:00"
+title: "Little Flame Throwers"
+topic: "Arik and Allen wash cars, wash eggs, microwave lasagna, and anger math teachers."
+duration: "00:45:57"
+length: 22104239
+link: https://pinecast.com/listen/7a517107-57d9-4c66-a126-9900bc433726.mp3
+summary: "Arik and Allen wash cars, wash eggs, microwave lasagna, and anger math teachers."
+explicit: "no"
+
+---
+
+Arik and Allen wash cars, wash eggs, microwave lasagna, and anger math teachers.
+
+- [The jpoc guide to washing your car in Germany](http://jpoc.net/countries/germany/washcar.html)
+  - [German laws: 6 surprising things that are forbidden in Germany](https://www.youtube.com/watch?v=AuaVGK7xXaM)
+- [Engineerguy’s explainer: How a Microwave Works](https://www.youtube.com/watch?v=kp33ZprO0Ck)
+- [Why Europeans Don’t Refrigerate Eggs](https://www.womenshealthmag.com/food/a28483667/do-eggs-need-to-be-refrigerated/)
+  - [New Scientist: US should vaccinate poultry to stop killer salmonella](https://www.newscientist.com/article/dn23165-us-should-vaccinate-poultry-to-stop-killer-salmonella/)
+- [101](https://en.wikipedia.org/wiki/101_(number))
+  - [English Stack Exchange: How do you correctly say large numbers?](https://english.stackexchange.com/questions/37958/how-do-you-correctly-say-large-numbers)
+  - [A nonscientific survey on the topic of 101 from 2001](https://improbable.com/news/2001/aug/math101.html)
+
