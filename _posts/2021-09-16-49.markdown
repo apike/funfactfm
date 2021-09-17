@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2021-09-16 12:00:00 -08:00"
+title: "People Were Angry"
+topic: "Allen drops the bass, Arik forecasts the weather, Allen is a bodybuilder, and Tesla concocts a scheme. After the Fact: trying not to pre-order a car."
+duration: "00:56:23"
+length: 27112660
+link: https://pinecast.com/listen/63f1805b-e3d2-4411-bc4d-b944f8c011e1.mp3
+summary: "Allen drops the bass, Arik forecasts the weather, Allen is a bodybuilder, and Tesla concocts a scheme. After the Fact: trying not to pre-order a car."
+explicit: "no"
+
+---
+
+Allen drops the bass, Arik forecasts the weather, Allen is a bodybuilder, and Tesla concocts a scheme. After the Fact: trying not to pre-order a car.
+
+- That [bass](https://en.wikipedia.org/wiki/Bass_guitar)
+- [Probability of precipitation - Wikipedia](https://en.wikipedia.org/wiki/Probability_of_precipitation)
+  - [What Does Probability of Precipitation Mean?](https://www.weather.gov/lmk/pops)
+  - [Weather 101: What does a 30% chance of rain really mean?](https://www.nwahomepage.com/weather/weather-101/weather-101-what-does-a-30-chance-of-rain-really-mean/)
+  - [What Does Probability of Precipitation Mean?](https://weatherworksinc.com/news/probability-of-precipitation-meaning)
+- The [VW ID.4](https://www.caranddriver.com/volkswagen/id4) and the [Hyundai Ioniq 5](https://www.caranddriver.com/hyundai/ioniq-5)
+- [Motor Trend: The 2022 Rivian R1T Is the Most Remarkable Pickup We’ve Ever Driven](https://www.motortrend.com/reviews/2022-rivian-r1t-electric-pickup-truck-first-drive-review/)
+- [IIHS on the contribution of SUVs to increasing pedestrian deaths in the US](https://www.iihs.org/news/detail/new-study-suggests-todays-suvs-are-more-lethal-to-pedestrians-than-cars)
+
