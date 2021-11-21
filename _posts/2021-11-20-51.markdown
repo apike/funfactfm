@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2021-11-20 12:00:00 -08:00"
+title: "This Is Non-Delicious"
+topic: "Allen explains a novel thread, Arik brings us to the French Revolution, Allen dishes on spamming tools, and we continue to not work at Facebook."
+duration: "00:59:15"
+length: 28743528
+link: https://pinecast.com/listen/6dc3736c-469c-441d-8849-54dd0073f7e0.mp3
+summary: "Allen explains a special thread, Arik brings us to the French Revolution, Allen dishes on spamming tools, and we continue to not work at Facebook."
+explicit: "no"
+
+---
+
+Allen explains a special thread, Arik brings us to the French Revolution, Allen dishes on spamming tools, and we continue to not work at Facebook.
+
+- [Two examples of vented bottle threads](http://www.imajeenyus.com/mechanical/20120508_bottle_top_threads/DSCN5674.JPG)
+  - [A post explaining the threads](http://www.madsci.org/posts/archives/2000-02/950761555.Eg.r.html)
+- [The Surprising Origins of Left and Right in Politics](https://time.com/5673239/left-right-politics-origins/)
+- [Bill Murray’s Genius Champagne in Ice Hack (supposedly) Prevents Hangovers](https://www.thrillist.com/drink/nation/bill-murray-champagne-ice-hangover-montana-cooler)
+- [Some Bundestag drama on Instagram](https://www.instagram.com/p/CVNN7v_q-oY/?utm_medium=copy_link)
+- Facebook’s [infamous “connecting more people is inherently good” memo](https://www.buzzfeednews.com/article/ryanmac/growth-at-any-cost-top-facebook-executive-defended-data#.xt4mkokxx)
+- John Carmack’s [Oculus Connect 2021 keynote](https://www.youtube.com/watch?v=BnSUk0je6oo)
