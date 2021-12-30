@@ -1,0 +1,20 @@
+---
+layout: post
+author: apike
+date: "2021-12-29 12:00:00 -08:00"
+title: "We're Off Track"
+topic: "Romans hunt for spies, retailers participate in a scheme, Arik and Allen get a bit off track. Okay, a lot off track."
+duration: "00:59:15"
+length: 28743528
+link: https://pinecast.com/listen/71ce421d-6ad4-4fca-83e5-e50d68f50a6b.mp3
+summary: "Romans hunt for spies, retailers participate in a scheme, Arik and Allen get a bit off track. Okay, a lot off track."
+explicit: "no"
+
+---
+
+Romans hunt for spies, retailers participate in a scheme, Arik and Allen get a bit off track. Okay, a lot off track.
+
+- [Two Spies on iOS](https://playspies.com)
+- [The Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire)
+- [Minimum Advertised Price](https://www.thebalancesmb.com/what-is-minimum-advertised-price-2890196)
+- [Industry Baby](https://en.wikipedia.org/wiki/Industry_Baby)
