@@ -1,0 +1,24 @@
+---
+layout: post
+author: apike
+date: "2022-01-23 12:00:00 -08:00"
+title: "They All Have Goats"
+topic: "Allen shares some puzzling genetics, Arik shares some puzzling puzzles, we go back to the '90s, and forward to the '30s."
+duration: "00:52:34"
+length: 25287200
+link: https://pinecast.com/listen/ab53037e-d828-4cb4-b451-e36c20de35e8.mp3
+summary: "Allen shares some puzzling genetics, Arik shares some puzzling puzzles, we go back to the '90s, and forward to the '30s."
+explicit: "no"
+
+---
+
+Allen shares some puzzling genetics, Arik shares some puzzling puzzles, we go back to the '90s, and forward to the '30s.
+
+- [There is no such thing as a tree (phylogenetically)](https://www.lesswrong.com/posts/fRwdkop6tyhi3d22L/there-s-no-such-thing-as-a-tree-phylogenetically)
+  - The fascinating [graph of plant evolution](https://eukaryotewritesblog.files.wordpress.com/2021/05/whatareplants-1.jpg)
+- [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
+- The [Potato paradox](https://en.wikipedia.org/wiki/Potato_paradox)
+- [ATP 464](https://atp.fm/464), featuring a post-show on reducing our consumption of animal products
+- [Fun Fact 20: Lil Nas 10](https://funfact.fm/episodes/20)
+- [Y2K22 bug in Microsoft Exchange](https://www.neowin.net/news/y2k22-bug-microsoft-rings-in-the-new-year-by-breaking-exchange-servers-all-around-the-world/)
+  - [Exchange 2019 Anti-Malware - Bad Update?](https://www.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/)
