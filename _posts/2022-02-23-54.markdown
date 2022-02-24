@@ -1,0 +1,22 @@
+---
+layout: post
+author: apike
+date: "2022-02-23 12:00:00 -08:00"
+title: "Unicorn Blaster"
+topic: "Allen lays out a wine scheme, Christa Mrgan explains the wonders of temporal resolution, Allen checks in on creatures' dangerousness, and we learn a couple things about George Orwell."
+duration: "00:37:18"
+length: 17958802
+link: https://pinecast.com/listen/ac76e361-be45-4166-a422-b83200f46d3a.mp3
+summary: "Allen lays out a wine scheme, Christa Mrgan explains the wonders of temporal resolution, Allen checks in on creatures' dangerousness, and we learn a couple things about George Orwell."
+explicit: "no"
+
+---
+
+Allen lays out a wine scheme, Christa Mrgan explains the wonders of temporal resolution, Allen checks in on creatures' dangerousness, and we learn a couple things about George Orwell.
+
+- [How Wine Bricks Saved The U.S. Wine Industry](https://vinepair.com/wine-blog/how-wine-bricks-saved-the-u-s-wine-industry-during-prohibition/)
+  - [Vine-Glo](https://en.wikipedia.org/wiki/Vine-Glo)
+- The [Flicker fusion threshold](https://en.wikipedia.org/wiki/Flicker_fusion_threshold)
+- [Spider deaths in Australia](https://australian.museum/learn/animals/spiders/spider-facts/)
+- [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)
+- [The Emperor's New Groove](https://www.commonsensemedia.org/movie-reviews/the-emperors-new-groove)
