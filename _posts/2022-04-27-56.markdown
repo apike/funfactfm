@@ -1,0 +1,20 @@
+---
+layout: post
+author: apike
+date: "2022-04-27 12:00:00 -08:00"
+title: "A Hippo Astronaut"
+topic: "Allen attempts to throw things into a volcano, Arik attempts to clean his dishes, and hippos attempt to get around."
+duration: "00:39:48"
+length: 19152821
+link: https://pinecast.com/listen/d8c25149-eb52-41e6-ae75-b7700e7853c8.mp3
+summary: "Allen attempts to throw things into a volcano, Arik attempts to clean his dishes, and hippos attempt to get around."
+explicit: "yes"
+
+---
+
+Allen attempts to throw things into a volcano, Arik attempts to clean his dishes, and hippos attempt to get around.
+
+- The volcanoes [Kīlauea](https://en.wikipedia.org/wiki/K%C4%ABlauea) and [Nyiragongo](https://en.wikipedia.org/wiki/Mount_Nyiragongo)
+- A [GoPro in a dishwasher](https://www.youtube.com/watch?v=wkJJSsmAdDY)
+- A [GoPro that falls from a plane and gets blanked by a blank](https://www.youtube.com/watch?v=QrxPuk0JefA)
+- Hippos [walking – not swimming – under water](https://www.youtube.com/watch?v=X-YRJCSZRJU)
