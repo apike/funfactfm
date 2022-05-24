@@ -6,7 +6,7 @@ title: "Butt-Water Air Adventure Tourism"
 topic: "Turtles breathe in a very peculiar way, nut butter makes a mess, bacteria get crushed, and Arik goes on a quest for carbonation."
 duration: "01:06:07"
 length: 31788904
-link: https://pinecast.com/listen/d8c25149-eb52-41e6-ae75-b7700e7853c8.mp3
+link: https://pinecast.com/listen/88a98739-0023-4750-b604-d2e065ecdbac.mp3
 summary: "Turtles breathe in a very peculiar way, nut butter makes a mess, bacteria get crushed, and Arik goes on a quest for carbonation."
 explicit: "no"
 
