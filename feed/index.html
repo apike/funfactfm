@@ -10,7 +10,7 @@ layout: nil
  
 <title>Fun Fact</title>
  
-<link>http://www.funfact.fm/</link>
+<link>https://www.funfact.fm/</link>
  
 <itunes:explicit>no</itunes:explicit>
 
@@ -36,7 +36,7 @@ layout: nil
  
 </itunes:owner>
  
-<itunes:image href="http://www.funfact.fm/images/itunes.png" />
+<itunes:image href="https://www.funfact.fm/images/itunes.png" />
  
 <itunes:category text="Society &amp; Culture">
 </itunes:category>
@@ -47,7 +47,7 @@ layout: nil
 <itunes:category text="Technology">
 </itunes:category>
   
-<itunes:new-feed-url>http://www.funfact.fm/feed/</itunes:new-feed-url>
+<itunes:new-feed-url>https://www.funfact.fm/feed/</itunes:new-feed-url>
  
  {% for post in site.posts limit:100 %}
  
@@ -67,13 +67,13 @@ layout: nil
 
 <description><![CDATA[{{ post.content}}]]></description>
  
- <itunes:image href="http://www.funfact.fm/images/itunes.jpg" />
+ <itunes:image href="https://www.funfact.fm/images/itunes.jpg" />
 
- <link>http://www.funfact.fm{{ post.url }}</link>
+ <link>https://www.funfact.fm{{ post.url }}</link>
  
  <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
  
- <guid>http://www.funfact.fm{{ post.url }}</guid>
+ <guid>https://www.funfact.fm{{ post.url }}</guid>
  
  <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
  
