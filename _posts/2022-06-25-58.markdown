@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2022-06-25 12:00:00 -08:00"
+title: "A Little Round Blob"
+topic: "Allen reveals why pills are the way they are, Arik reveals why trucks are the way they are, and we catch up on followup."
+duration: "00:51:55"
+length: 24975255
+link: https://pinecast.com/listen/322429da-3d5b-4ec2-95df-d7b363fc9c0d.mp3
+summary: "Allen reveals why pills are the way they are, Arik reveals why trucks are the way they are, and we catch up on followup."
+explicit: "no"
+
+---
+
+Allen reveals why pills are the way they are, Arik reveals why trucks are the way they are, and we catch up on followup.
+
+- Episode now fixed: [Episode 57, Butt-Water Air Adventure Tourism](https://funfact.fm/episodes/57)
+- Discussion of cold meds on [Ep. 29, This is Not Medical Advice](https://funfact.fm/episodes/29)
+- [The capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)#:~:text=A%20capsule%20(from%20Latin%20capsula,for%20this%20shape%20is%20spherocylinder.)
+- [The Colorful History of Pills Can Fill Many a Tablet](https://www.latimes.com/archives/la-xpm-2002-mar-25-he-booster25-story.html)
+- [How CAFE Killed Compact Trucks And Station Wagons - The Truth About Cars](https://www.thetruthaboutcars.com/2012/10/how-cafe-killed-compact-trucks-and-station-wagons/)
+- [How do they determine wheel base and wheel track of a vehicle? - Quora](https://www.quora.com/How-do-they-determine-wheel-base-and-wheel-track-of-a-vehicle)
+- [Allen's article on How to Buy a Family EV](https://allenpike.com/2022/howto-buy-a-family-ev)
+- [Thowing stuff into a lava lake](https://www.youtube.com/watch?v=kq7DDk8eLs8)
+- [Wikihow: How to Clean a Razor Blade](https://www.wikihow.com/Clean-a-Razor-Blade)
