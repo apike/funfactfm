@@ -1,0 +1,28 @@
+---
+layout: post
+author: apike
+date: "2022-09-27 12:00:00 -08:00"
+title: "Sorry, Scientists"
+topic: "We consider too much rain, too many dinosaurs, too much bad stuff happening, and too many MIDI notes."
+duration: "00:40:19"
+length: 19399489
+link: https://pinecast.com/listen/7b72b548-3895-4ca7-af8f-de183f4d7328.mp3
+summary: "We consider too much rain, too many dinosaurs, too much bad stuff happening, and too many MIDI notes."
+explicit: "no"
+
+---
+
+We consider too much rain, too many dinosaurs, too much bad stuff happening, and too many MIDI notes.
+
+- [Carnian pluvial episode - Wikipedia](https://en.wikipedia.org/wiki/Carnian_pluvial_episode)
+  - [Ornithosuchus - Wikipedia](https://en.wikipedia.org/wiki/Ornithosuchus)
+- [The Worst Time in History to Be Alive, According to Science](https://www.history.com/news/536-volcanic-eruption-fog-eclipse-worst-year)
+  - [Why 536 was ‘the worst year to be alive’](https://www.science.org/content/article/why-536-was-worst-year-be-alive?cookieSet=1)
+  - [Volcanic winter of 536 - Wikipedia](https://en.wikipedia.org/wiki/Volcanic_winter_of_536)
+- The [Nocturnal bottleneck](https://en.wikipedia.org/wiki/Nocturnal_bottleneck)
+  - [Photolyase](https://en.wikipedia.org/wiki/Photolyase)
+  - [2013 nocturnal bottleneck study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712437/)
+- Black MIDI examples
+  - [Wrecking Ball](https://www.youtube.com/watch?v=oKv9S6mxnXE)
+  - [Bad Apple going wrong](https://youtu.be/I906a5msynw?t=118)
+  - [Rush E](https://youtu.be/Qskm9MTz2V4?t=18)
