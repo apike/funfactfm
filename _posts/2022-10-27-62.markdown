@@ -6,7 +6,7 @@ title: "Sounds Made Up"
 topic: "We talk about how rice is grown, how eyes are colored, how time is told, and, of course, a scheme."
 duration: "00:46:10"
 length: 22208265
-link: 
+link: https://pinecast.com/listen/e7c0295d-76b8-486c-8060-548f0b27e1b3.mp3
 summary: "We talk about how rice is grown, how eyes are colored, how time is told, and, of course, a scheme.."
 explicit: "no"
 
