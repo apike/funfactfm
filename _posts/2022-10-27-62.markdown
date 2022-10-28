@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2022-10-27 12:00:00 -08:00"
+title: "Sounds Made Up"
+topic: "We talk about how rice is grown, how eyes are colored, how time is told, and, of course, a scheme."
+duration: "00:46:10"
+length: 22208265
+link: 
+summary: "We talk about how rice is grown, how eyes are colored, how time is told, and, of course, a scheme.."
+explicit: "no"
+
+---
+
+We talk about how rice is grown, how eyes are colored, how time is told, and, of course, a scheme.
+
+- The [System of Rice Intensification](https://en.wikipedia.org/wiki/System_of_Rice_Intensification)
+- [Eye color percentages around the world and what causes eye color](https://www.medicalnewstoday.com/articles/eye-color-percentage#eye-color-around-the-world)
+  - [Eye Color Percentage for Across the Globe](https://www.healthline.com/health/eye-health/eye-color-percentages#percentages)
+  - [The World’s Population By Eye Color - WorldAtlas](https://www.worldatlas.com/articles/which-eye-color-is-the-most-common-in-the-world.html)
+  - [World’s littlest skyscraper - Wikipedia](https://en.wikipedia.org/wiki/World's_littlest_skyscraper)
+- The [Thai six-hour clock](https://en.wikipedia.org/wiki/Thai_six-hour_clock)
+- The [World's littlest skyscraper](https://en.wikipedia.org/wiki/World%27s_littlest_skyscraper)
