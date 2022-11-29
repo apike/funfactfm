@@ -1,0 +1,25 @@
+---
+layout: post
+author: apike
+date: "2022-11-28 12:00:00 -08:00"
+title: "A Heaving Mass of People"
+topic: "Arik makes an important call, Allen explains flavour, Arik invents football, Allen counts smiths, and we discover Ethiopian Time."
+duration: "00:42:24"
+length: 20399636
+link: https://pinecast.com/listen/5844b6bf-cf24-4f18-8732-01a2a4733823.mp3
+summary: "Arik makes an important call, Allen explains flavour, Arik invents football, Allen counts smiths, and we discover Ethiopian Time."
+explicit: "no"
+
+---
+
+Arik makes an important call, Allen explains flavour, Arik invents football, Allen counts smiths, and we discover Ethiopian Time.
+
+- [Bon Appetite on blue raspberry](https://www.bonappetit.com/entertaining-style/pop-culture/article/what-is-blue-raspberry-flavor)
+  - [Serious Eats on banana flavour](https://www.seriouseats.com/banana-flavor-isoamyl-acetate)
+- [History of American football](https://en.wikipedia.org/wiki/History_of_American_football)
+  - [William Webb Ellis](https://en.wikipedia.org/wiki/William_Webb_Ellis)
+  - [Association football](https://en.wikipedia.org/wiki/Association_football)
+- [Blacksmith](https://en.wikipedia.org/wiki/Blacksmith), [whitesmith](https://en.wikipedia.org/wiki/Whitesmith), [greensmith](https://www.surnamedb.com/Surname/Greensmith), and [brownsmith](https://aminoapps.com/c/blacksmithing/page/item/brownsmithing/bNrg_wdJCnI01ejJgkqWjM48PlMBrDMeVab)
+- [Fun Fact 36 – Joey Two-Lies](https://funfact.fm/episodes/36)
+- [Travel Tips for Ethiopia](https://www.linkethiopia.org/ethiopia/travellers-guide/travel-tips/)
+  - [If you have a meeting in Ethiopia, you’d better double check the time](https://archive.ph/bbqgH)
