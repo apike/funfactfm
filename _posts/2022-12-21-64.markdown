@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2022-12-21 12:00:00 -08:00"
+title: "Don't Eat This"
+topic: "Ancient cultures name colours, algae goes wild, toilets inspire poetry, and we attempt to correct the internet."
+duration: "00:36:06"
+length: 17375817
+link: https://pinecast.com/listen/d7429988-6a90-4bf6-a423-2397ccb38252.mp3
+summary: "Ancient cultures name colours, algae goes wild, toilets inspire poetry, and we attempt to correct the internet."
+explicit: "no"
+
+---
+
+Ancient cultures name colours, algae goes wild, toilets inspire poetry, and we attempt to correct the internet.
+
+- [What Is Blue and How Do We See Color?](https://www.businessinsider.com/what-is-blue-and-how-do-we-see-color-2015-2)
+  - [Did Ancient People Really Not See The Color Blue? | IFLScience](https://www.iflscience.com/did-ancient-people-really-not-see-the-color-blue-51837)
+  - [Himba people - Wikipedia](https://en.wikipedia.org/wiki/Himba_people)
+  - [Himba people color chart on Wikipedia](https://en.wikipedia.org/wiki/Himba_people#/media/File:Himba_color_Names.svg)
+- [Giant kelp](https://en.wikipedia.org/wiki/Macrocystis_pyrifera)
+- [Why is a Toilet Called a “John”?](https://www.sunrisespecialty.com/john-toilet)
+  - [Why the Toilet is Sometimes Called a “John”](https://www.todayifoundout.com/index.php/2010/08/why-the-toilet-is-sometimes-called-a-john/)
