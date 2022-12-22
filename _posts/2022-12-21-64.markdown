@@ -15,7 +15,7 @@ explicit: "no"
 Ancient cultures name colours, algae goes wild, toilets inspire poetry, and we attempt to correct the internet.
 
 - [What Is Blue and How Do We See Color?](https://www.businessinsider.com/what-is-blue-and-how-do-we-see-color-2015-2)
-  - [Did Ancient People Really Not See The Color Blue? | IFLScience](https://www.iflscience.com/did-ancient-people-really-not-see-the-color-blue-51837)
+  - [Did Ancient People Really Not See The Color Blue?](https://www.iflscience.com/did-ancient-people-really-not-see-the-color-blue-51837)
   - [Himba people - Wikipedia](https://en.wikipedia.org/wiki/Himba_people)
   - [Himba people color chart on Wikipedia](https://en.wikipedia.org/wiki/Himba_people#/media/File:Himba_color_Names.svg)
 - [Giant kelp](https://en.wikipedia.org/wiki/Macrocystis_pyrifera)
