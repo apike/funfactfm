@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2023-01-27 12:00:00 -08:00"
+title: "Let's All Do Crime"
+topic: "A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
+duration: "00:46:47"
+length: 22505174
+link: https://pinecast.com/listen/dbfc22d2-c452-4fac-84f2-7d4565fd6ddc.mp3
+summary: "A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
+explicit: "no"
+
+---
+
+A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets.
+
+- [Alves dos Reis on Wikipedia](https://en.wikipedia.org/wiki/Alves_dos_Reis)
+  - [Rose Bailey's Mastodon thread on the scheme](https://dice.camp/@Rose_On_Mars/109677342858616103)
+- [The forgotten history of how automakers invented the crime of “jaywalking” - Vox](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
+  - [The Modern Moloch - 99% Invisible](https://99percentinvisible.org/episode/episode-76-the-modern-moloch/)
+  - [Motor vehicle fatality rate in U.S. by year - Wikipedia](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year)
+  - [Not Just Bikes on YouTube](https://www.youtube.com/@NotJustBikes)
+- [Pringles' Sweet Potato Cinnamon Crisps](https://www.taquitos.net/chips/PringlesSelectCinnamonSweetPotato)
