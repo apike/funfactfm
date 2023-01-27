@@ -3,16 +3,16 @@ layout: post
 author: apike
 date: "2023-01-27 12:00:00 -08:00"
 title: "Let's All Do Crime"
-topic: "A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
+topic: "A Portuguese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
 duration: "00:46:47"
 length: 22505174
 link: https://pinecast.com/listen/dbfc22d2-c452-4fac-84f2-7d4565fd6ddc.mp3
-summary: "A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
+summary: "A Portuguese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets."
 explicit: "no"
 
 ---
 
-A Portugese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets.
+A Portuguese scheme attempts to make counterfeit money real, an American scheme attempts to make walking illegal, and we set the record straught on Austalian toliets.
 
 - [Alves dos Reis on Wikipedia](https://en.wikipedia.org/wiki/Alves_dos_Reis)
   - [Rose Bailey's Mastodon thread on the scheme](https://dice.camp/@Rose_On_Mars/109677342858616103)
