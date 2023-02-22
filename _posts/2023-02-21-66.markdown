@@ -14,14 +14,12 @@ explicit: "no"
 
 Allen saves us from asteroids, Jack Black's mom saves some astronauts, Allen offends Arik's sense of probability, and Arik sets the record straight on streetcar conspiracies.
 
-- Redirecting asteroids
-
-- [A Heaving Mass of People – Episode 63, Fun Fact Podcast](https://funfact.fm/episodes/63) 
+- [Asteroid impact avoidance](https://en.wikipedia.org/wiki/Asteroid_impact_avoidance)
 - [The Truth About Jack Black’s Mother’s Historic Past](https://www.msn.com/en-us/entertainment/entertainment-celebrity/the-truth-about-jack-black-s-mother-s-historic-past/ar-AA12PUZT)
-- [USC - Viterbi School of Engineering - In Memory of Judith Love Cohen: Mother, Wife, Friend, Author, Engineer](https://viterbi.usc.edu/news/news/2016/obituary-judith-love-cohen-neil-siegel-usc-viterbi-engineering-women.htm)
-
-- Card shuffling math
-
-- [Did a conspiracy really destroy Los Angeles’s huge streetcar system? - Curbed LA](https://la.curbed.com/2017/9/20/16340038/los-angeles-streetcar-conspiracy-theory-general-motors)
-- [Kennedy, 60 Minutes, and Roger Rabbit](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?httpsredir=1&article=1016&context=cus_pubs)
-- [General Motors streetcar conspiracy - Wikipedia](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
+  - Ep. 63, [A Heaving Mass of People](https://funfact.fm/episodes/63) 
+  - [In Memory of Judith Love Cohen](https://viterbi.usc.edu/news/news/2016/obituary-judith-love-cohen-neil-siegel-usc-viterbi-engineering-women.htm)
+- [The math behind how unlikely it is that two well shuffled decks have the same order](https://www.esquireme.com/news/card-shuffling)
+  - [An attempt to convey how long it would take to shuffle 52! times](https://czep.net/weblog/52cards.html)
+- [Did a conspiracy really destroy Los Angeles’s huge streetcar system?](https://la.curbed.com/2017/9/20/16340038/los-angeles-streetcar-conspiracy-theory-general-motors)
+   - [Kennedy, 60 Minutes, and Roger Rabbit](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?httpsredir=1&article=1016&context=cus_pubs)
+   - [General Motors streetcar conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
