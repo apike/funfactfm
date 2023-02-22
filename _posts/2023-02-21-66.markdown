@@ -1,0 +1,27 @@
+---
+layout: post
+author: apike
+date: "2023-02-21 12:00:00 -08:00"
+title: "We Gotta Blow It Up"
+topic: "Allen saves us from asteroids, Jack Black's mom saves some astronauts, Allen offends Arik's sense of probability, and Arik sets the record straight on streetcar conspiracies."
+duration: "00:49:32"
+length: 23825201
+link: https://pinecast.com/listen/8a92f8e6-4f9d-45b1-bb10-5f21bde08fb2.mp3
+summary: "Allen saves us from asteroids, Jack Black's mom saves some astronauts, Allen offends Arik's sense of probability, and Arik sets the record straight on streetcar conspiracies."
+explicit: "no"
+
+---
+
+Allen saves us from asteroids, Jack Black's mom saves some astronauts, Allen offends Arik's sense of probability, and Arik sets the record straight on streetcar conspiracies.
+
+- Redirecting asteroids
+
+- [A Heaving Mass of People – Episode 63, Fun Fact Podcast](https://funfact.fm/episodes/63) 
+- [The Truth About Jack Black’s Mother’s Historic Past](https://www.msn.com/en-us/entertainment/entertainment-celebrity/the-truth-about-jack-black-s-mother-s-historic-past/ar-AA12PUZT)
+- [USC - Viterbi School of Engineering - In Memory of Judith Love Cohen: Mother, Wife, Friend, Author, Engineer](https://viterbi.usc.edu/news/news/2016/obituary-judith-love-cohen-neil-siegel-usc-viterbi-engineering-women.htm)
+
+- Card shuffling math
+
+- [Did a conspiracy really destroy Los Angeles’s huge streetcar system? - Curbed LA](https://la.curbed.com/2017/9/20/16340038/los-angeles-streetcar-conspiracy-theory-general-motors)
+- [Kennedy, 60 Minutes, and Roger Rabbit](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?httpsredir=1&article=1016&context=cus_pubs)
+- [General Motors streetcar conspiracy - Wikipedia](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
