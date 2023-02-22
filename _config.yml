@@ -4,4 +4,8 @@ permalink: /episodes/:title
 
 url: "http://www.funfact.fm/"
 
+# Applying this workaround for a Jekyll issue that popped up Feb 2023 
+# https://github.com/jekyll/jekyll/issues/5267#issuecomment-241379902
+exclude: [vendor] 
+
 future: true
