@@ -1,0 +1,21 @@
+---
+layout: post
+author: apike
+date: "2023-03-23 12:00:00 -08:00"
+title: "Astronomically Unlikely"
+topic: "Women handle backward buttons, Allen handles a lot of feedback about very improbable things, and Arik handles digested asparagus."
+duration: "00:45:55"
+length: 22092267
+link: https://pinecast.com/listen/a718656a-0e52-483b-81b2-561711c076de.mp3
+summary: "Women handle backward buttons, Allen handles a lot of feedback about very improbable things, and Arik handles digested asparagus."
+explicit: "no"
+
+---
+
+Women handle backward buttons, Allen handles a lot of feedback about very improbable things, and Arik handles digested asparagus.
+
+- [Why Zippers Are On Different Sides For Men And Women’s Clothing](https://www.huffpost.com/entry/zippers-different-sides-men-women_l_5e4584bac5b67894f80d281a)
+  - [Sumptuary law](https://www.britannica.com/topic/sumptuary-law)
+- [Understanding the Birthday Paradox](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
+- [Universally unique identifiers (UUID)](https://en.wikipedia.org/wiki/Universally_unique_identifier)
+- [Why Does Asparagus Make Your Pee Smell?](https://www.healthline.com/nutrition/why-does-asparagus-make-your-pee-smell#general-effects-on-urine-odor)
