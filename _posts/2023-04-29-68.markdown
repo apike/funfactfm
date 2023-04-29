@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2023-04-29 12:00:00 -08:00"
+title: "Ridiculously Ridonkulously Large"
+topic: "Our sun proves a nuisance, the former Soviet Union makes a trade, we consider pepper seeds, Isaac Newton considers an apple, mice consider some cheese, rats get exonerated, and we share a superior alternative to implausible."
+duration: "00:36:52"
+length: 17745235
+link: https://pinecast.com/listen/a718656a-0e52-483b-81b2-561711c076de.mp3
+summary: "Our sun proves a nuisance, the former Soviet Union makes a trade, we consider pepper seeds, Isaac Newton considers an apple, mice consider some cheese, rats get exonerated, and we share a superior alternative to implausible."
+explicit: "no"
+
+---
+
+Our sun proves a nuisance, the former Soviet Union makes a trade, we consider pepper seeds, Isaac Newton considers an apple, mice consider some cheese, rats get exonerated, and we share a superior alternative to implausible.
+
+- [What would the sun sound like?](https://www.astronomy.com/news/2020/02/what-would-the-sun-sound-like)
+- [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- [It Shipped That Way #6](https://www.itshipped.fm/episodes/6), where Arik and Allen talk about engineering leadership, software architecture, and Netflix's culture
