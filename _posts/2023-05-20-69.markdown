@@ -1,0 +1,23 @@
+---
+layout: post
+author: apike
+date: "2023-05-30 12:00:00 -08:00"
+title: "This Would Be Unsurvivable"
+topic: "Allen goes deep on whale ingestion, and Arik explains what's really going on with dinosaurs."
+duration: "00:35:08"
+length: 16911627
+link: https://pinecast.com/listen/5f26d7a5-1558-43b6-83a1-3c5cd7ba6696.mp3
+summary: "Allen goes deep on whale ingestion, and Arik explains what's really going on with dinosaurs."
+explicit: "no"
+
+---
+
+Allen goes deep on whale ingestion, and Arik explains what's really going on with dinosaurs.
+
+- [National Geographic on the plausibility of whales swallowing humans](https://www.nationalgeographic.com/animals/article/most-whales-cant-really-swallow-a-human-heres-why)
+- [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur)
+  - [Evolution of birds](https://en.wikipedia.org/wiki/Evolution_of_birds)
+  - [Ornithischia](https://en.wikipedia.org/wiki/Ornithischia)
+  - [Saurischia](https://en.wikipedia.org/wiki/Saurischia)
+  - [Scott_D._Sampson](https://en.wikipedia.org/wiki/Scott_D._Sampson)
+  - [‘Dinosaurs Among Us’ Retraces an Evolutionary Path](https://www.nytimes.com/2016/03/29/science/dinosaurs-birds-evolution-american-museum-of-natural-history.html)
