@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2023-06-28 12:00:00 -08:00"
+title: "Both Jaunty and Cool"
+topic: "Allen explains why summer exists, Arik outlines a trademark scheme, and Allen betrays Arik with a fishy biology fact."
+duration: "00:39:08"
+length: 18831907
+link: https://pinecast.com/listen/bb0c135f-9924-4796-a0e9-2c4d13726153.mp3
+summary: "Allen explains why summer exists, Arik outlines a trademark scheme, and Allen betrays Arik with a fishy biology fact."
+explicit: "no"
+
+---
+
+Allen explains why summer exists, Arik outlines a trademark scheme, and Allen betrays Arik with a fishy biology fact.
+
+- [Seasonal lag](https://en.wikipedia.org/wiki/Seasonal_lag)
+- [List of genericized trademarks](https://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks)
+- [Cladistics](https://en.wikipedia.org/wiki/Cladistics), the effort to recategorize living things into clades
