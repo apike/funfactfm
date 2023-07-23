@@ -1,0 +1,20 @@
+---
+layout: post
+author: apike
+date: "2023-07-23 12:00:00 -08:00"
+title: "Cool Fact"
+topic: "Arik and Allen attempt a live episode, Allen attempts to store dry ice, Arik attempts to use the word 'relative', and Allen attempts to explain what salt does."
+duration: "00:32:56"
+length: 15857212
+link: https://pinecast.com/listen/01cc939d-ec1f-4070-b41e-ae06e4f8f5f0.mp3
+summary: "Arik and Allen attempt a live episode, Allen attempts to store dry ice, Arik attempts to use the word 'relative', and Allen attempts to explain what salt does."
+explicit: "no"
+
+---
+
+Arik and Allen attempt a live episode, Allen attempts to store dry ice, Arik attempts to use the word "relative", and Allen attempts to explain what salt does.
+
+- [Carbon capture and storage](https://en.wikipedia.org/wiki/Carbon_capture_and_storage)
+  - [Permanent storage of carbon dioxide in the marine environment: The solid CO2 penetrator](https://www.semanticscholar.org/paper/Permanent-storage-of-carbon-dioxide-in-the-marine-Murray-Visintini/33534ea334dcf41fb36496125216b3cdd560bc73)
+- [Starboard and larboard - NOAA](https://oceanservice.noaa.gov/facts/port-starboard.html#:~:text=Sailors%20began%20calling%20the%20right,the%20side%20opposite%20the%20oar.)
+- [Do fish drink?](https://www.mcgill.ca/oss/article/you-asked/do-fish-drink)
