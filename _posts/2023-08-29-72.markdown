@@ -1,0 +1,20 @@
+---
+layout: post
+author: apike
+date: "2023-08-29 12:00:00 -08:00"
+title: "The Bone of Theseus"
+topic: "Arik improves an idiom, Allen shares a good news fact, Arik shares a grammar fact, and Allen locates your bones."
+duration: "00:32:30"
+length: 15654552
+link: https://pinecast.com/listen/5fce2e9b-2583-4467-bd10-3ff61affcbf7.mp3
+summary: "Arik improves an idiom, Allen shares a good news fact, Arik shares a grammar fact, and Allen locates your bones."
+explicit: "no"
+
+---
+
+Arik improves an idiom, Allen shares a good news fact, Arik shares a grammar fact, and Allen locates your bones.
+
+- [You can't have your cake and eat it too in other languages](https://en.wikipedia.org/wiki/You_can%27t_have_your_cake_and_eat_it)
+- [Status update on pandas](https://www.nationalgeographic.com/animals/article/pandas-are-off-chinas-endangered-list-but-threats-persist)
+- [Pisiform bone](https://en.wikipedia.org/wiki/Pisiform_bone)
+- [Sesamoid bones](https://en.wikipedia.org/wiki/Sesamoid_bone)
