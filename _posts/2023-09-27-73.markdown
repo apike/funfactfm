@@ -1,0 +1,21 @@
+---
+layout: post
+author: apike
+date: "2023-09-27 12:00:00 -08:00"
+title: "All You Need Is a Cartel"
+topic: "Allen showcases a very surprising study, Arik recounts a very Canadian heist, and somebody loses a finger."
+duration: "00:32:12"
+length: 15503809
+link: https://pinecast.com/listen/65a2b55a-70c6-4d83-a036-8a0c76a845ce.mp3
+summary: "Allen showcases a very surprising study, Arik recounts a very Canadian heist, and somebody loses a finger."
+explicit: "no"
+
+---
+
+Allen showcases a very surprising study, Arik recounts a very Canadian heist, and somebody loses a finger.
+
+- [Parachute use to prevent death and major trauma when jumping from aircraft: randomized controlled trial](https://www.bmj.com/content/363/bmj.k5094)
+- [Inside Quebec’s Great, Multi-Million-Dollar Maple-Syrup Heist](https://www.vanityfair.com/news/2016/12/maple-syrup-heist)
+- The [Great Canadian Maple Syrup Heist](https://en.wikipedia.org/wiki/Great_Canadian_Maple_Syrup_Heist)
+- [Sugar Shack](https://en.wikipedia.org/wiki/Sugar_shack)
+- [Dr Sam Moghtaderi's finger-loss quiz](https://twitter.com/drmoghtaderi/status/1058194231498563584?s=61&t=L2FnLRnkUtZWkwcFVGm6Ag)
