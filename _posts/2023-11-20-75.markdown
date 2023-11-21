@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2023-11-20 12:00:00 -08:00"
+title: "Gelatinous, Delicious, Terrible"
+topic: "Allen thinks about cans, Arik thinks about governance, and everybody thinks about the Roman Empire."
+duration: "00:43:02"
+length: 20703746
+link: https://pinecast.com/listen/cfe813f3-2e43-47c8-8741-5d027bf4f024.mp3
+summary: Allen thinks about cans, Arik thinks about governance, and everybody thinks about the Roman Empire."
+explicit: "no"
+
+---
+
+Allen thinks about cans, Arik thinks about governance, and everybody thinks about the Roman Empire.
+
+- [Why are cranberry sauce cans upside down?](https://www.cnn.com/2022/11/23/business/cranberry-sauce-label-upside-down/index.html)
+- [Roman Dictator](https://en.wikipedia.org/wiki/Roman_dictator)
+- [Why do bees make honey?](https://www.newscientist.com/question/bees-make-honey/)
