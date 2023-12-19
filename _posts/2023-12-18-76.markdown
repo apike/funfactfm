@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2023-12-18 12:00:00 -08:00"
+title: "That Doesn’t Seem True"
+topic: "We check in on platypi and Polaris, consider zero's parity, and make a decision about booby traps."
+duration: "00:33:29"
+length: 16121139
+link: https://pinecast.com/listen/cc54d195-fa10-481b-be18-5d3a5ed404c8.mp3
+summary: We check in on platypi and Polaris, consider zero's parity, and make a decision about booby traps.
+explicit: "no"
+
+---
+
+We check in on platypi and Polaris, consider zero's parity, and make a decision about booby traps.
+
+- [Polaris](https://en.wikipedia.org/wiki/Polaris)
+- [Parity of zero](https://en.wikipedia.org/wiki/Parity_of_zero)
+- [Legality of booby traps](https://casebook.icrc.org/a_to_z/glossary/booby-traps)
