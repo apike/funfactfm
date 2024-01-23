@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2024-01-22 12:00:00 -08:00"
+title: "Raspberry Dust"
+topic: "Science discovers our galaxy's flavor, machinists discover precision measurements, and Arik discovers why you shouldn't rent a car in Germany."
+duration: "00:37:51"
+length: 18216148
+link: https://pinecast.com/listen/9348a6da-94b8-41d4-91e1-411c79993684.mp3
+summary: Science discovers our galaxy's flavor, machinists discover precision measurements, and Arik discovers why you shouldn't rent a car in Germany.
+explicit: "no"
+
+---
+
+Science discovers our galaxy's flavor, machinists discover precision measurements, and Arik discovers why you shouldn't rent a car in Germany.
+
+- [Galaxy's centre tastes of raspberries and smells of rum, say astronomers](https://www.theguardian.com/science/2009/apr/21/space-raspberries-amino-acids-astrobiology)
+- [What Does Space Taste Like and Why Does It Matter?](https://www.eater.com/2015/9/17/9345507/space-taste)
+- [Thousandth of an inch](https://en.wikipedia.org/wiki/Thousandth_of_an_inch)
