@@ -1,0 +1,20 @@
+---
+layout: post
+author: apike
+date: "2024-02-29 12:00:00 -08:00"
+title: "Suffered for Science"
+topic: "Scientists discover where birds go, the trouble with coin flips, the limits of the human body, and what exactly you can find in the Perseus Molecular Cloud."
+duration: "00:38:34"
+length: 18561279
+link: https://pinecast.com/listen/274b5661-17f8-4991-911e-ce30a74b6e10.mp3
+summary: Scientists discover where birds go, the trouble with coin flips, the limits of the human body, and what exactly you can find in the Perseus Molecular Cloud.
+explicit: "no"
+
+---
+
+Scientists discover where birds go, the trouble with coin flips, the limits of the human body, and what exactly you can find in the Perseus Molecular Cloud.
+
+- The majestic [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
+- XCKD’s What If: [What if Nascar had no rules?](https://www.youtube.com/watch?v=JcXpCyPc2Xw)
+- [The Perseus Molecular Cloud](https://www.jpl.nasa.gov/news/spitzer-studies-a-stellar-playground-with-a-long-history)
+
