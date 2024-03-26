@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2024-03-25 12:00:00 -08:00"
+title: "Back Door Fact"
+topic: "Arik throws peanuts, Allen tries to cook vegetables, photographers try to prompt a good pose, and the earth's magnetic field threatens to cause trouble."
+duration: "00:36:08"
+length: 17392646
+link: https://pinecast.com/listen/d186e780-5754-47c3-930a-aca21ee731aa.mp3
+summary: Arik throws peanuts, Allen tries to cook vegetables, photographers try to prompt a good pose, and the earth's magnetic field threatens to cause trouble.
+explicit: "no"
+
+---
+
+Arik throws peanuts, Allen tries to cook vegetables, photographers try to prompt a good pose, and the earth's magnetic field threatens to cause trouble.
+
+- [High-altitude cooking](https://en.wikipedia.org/wiki/High-altitude_cooking)
+- [Say cheese](https://en.wikipedia.org/wiki/Say_cheese)
+- [Geomagnetic reversal](https://en.wikipedia.org/wiki/Geomagnetic_reversal)
