@@ -1,0 +1,21 @@
+---
+layout: post
+author: apike
+date: "2024-04-22 12:00:00 -08:00"
+title: "Solar Stands for Solar"
+topic: "Allen dives in to diodes, Arik explores the origin of taxis, and Allen reveals an unsavoury fact about zygotes."
+duration: "00:39:54"
+length: 19203848
+link: https://pinecast.com/listen/4b7ee618-1add-4b16-8826-a3338640d097.mp3
+summary: Allen dives in to diodes, Arik explores the origin of taxis, and Allen reveals an unsavoury fact about zygotes.
+explicit: "no"
+
+---
+
+Allen dives in to diodes, Arik explores the origin of taxis, and Allen reveals an unsavoury fact about zygotes.
+
+- [Steve Mould on LEDs and solar panels](https://www.youtube.com/watch?v=6WGKz2sUa0w)
+- [Why blue LEDs were almost impossible](https://www.youtube.com/watch?v=AF8d72mA41M)
+- [Thornton Blackburn](https://en.wikipedia.org/wiki/Thornton_Blackburn)
+
+
