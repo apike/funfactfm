@@ -1,0 +1,19 @@
+---
+layout: post
+author: apike
+date: "2024-05-26 12:00:00 -08:00"
+title: "Dinosaur In a Wingsuit"
+topic: "Arik uncovers what things are really named after, Allen goes subatomic, Arik marvels at astronomical coincidence, and Allen considers extraterrestrial flight."
+duration: "00:35:38"
+length: 17157182
+link: https://pinecast.com/listen/40a5da8f-44f3-4e1d-996d-8fa682435ed0.mp3
+summary: Arik uncovers what things are really named after, Allen goes subatomic, Arik marvels at astronomical coincidence, and Allen considers extraterrestrial flight.
+explicit: "no"
+
+---
+
+Arik uncovers what things are really named after, Allen goes subatomic, Arik marvels at astronomical coincidence, and Allen considers extraterrestrial flight.
+
+- [Titan](https://en.wikipedia.org/wiki/Titan_(moon))
+- [Do subatomic particles have a colour?](https://www.sciencefocus.com/science/do-subatomic-particles-have-a-colour)
+
